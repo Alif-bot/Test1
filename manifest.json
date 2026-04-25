@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "updated_at": "2026-04-25",
   "categories": [
     {
@@ -66,7 +66,7 @@
     {
       "id": "product",
       "title": "Product Marketing",
-      "effects": [372610445960083]
+      "effects": [372610445960083, 368492376619456]
     }
   ],
   "effects": {
@@ -82,6 +82,19 @@
       "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F88ecb1d2-2a8e-4c51-aebf-2ec6f81d4fcd.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F88ecb1d2-2a8e-4c51-aebf-2ec6f81d4fcd.webp",
       "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Fe1537327-0110-45d8-be0d-731c566b872b.mp3"
+    },
+    "368492376619456": {
+      "display_name": "Beach AD",
+      "template_id": 368492376619456,
+      "workflow_tag": "beachad_20251030",
+      "display_prompt": "Place your product on the beach.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%B2%99%E6%BB%A91.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%B2%99%E6%BB%A91.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%B2%99%E6%BB%A91.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%B2%99%E6%BB%A92.mp3"
     }
   }
 }
