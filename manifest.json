@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "updated_at": "2026-04-25",
   "categories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "dance",
       "title": "AI Dance",
-      "effects": [372610445960083]
+      "effects": [372610445960083, 337572593925696]
     },
     {
       "id": "heart",
@@ -95,6 +95,19 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%B2%99%E6%BB%A91.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%B2%99%E6%BB%A91.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%B2%99%E6%BB%A92.mp3"
+    },
+    "337572593925696": {
+      "display_name": "Skeleton Dance",
+      "template_id": 337572593925696,
+      "workflow_tag": "skeleton_dance_250511",
+      "display_prompt": "Shake it like that viral skeleton -  it’s meme time!",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_skeleton_250513.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_skeleton_250513.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_skeleton_250513.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_skeleton_250513.MP3"
     }
   }
 }
