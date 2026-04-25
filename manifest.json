@@ -20,7 +20,7 @@
     {
       "id": "dance",
       "title": "AI Dance",
-      "effects": [372610445960083, 337572593925696]
+      "effects": [337572593925696, 343058524240960]
     },
     {
       "id": "heart",
@@ -108,6 +108,19 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_skeleton_250513.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_skeleton_250513.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_skeleton_250513.MP3"
+    },
+    "343058524240960": {
+      "display_name": "Shake Shake  Disco",
+      "template_id": 343058524240960,
+      "workflow_tag": "shakeitdance_250609",
+      "display_prompt": "The dance floor needs your wave",
+      "effect_type": "1",
+      "duration": 12,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-shake-251109-%E5%B0%81%E9%9D%A2.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-shake-251109.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-shake-251109.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp-shake-251109.MP3"
     }
   }
 }
