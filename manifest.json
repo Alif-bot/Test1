@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "updated_at": "2026-04-25",
+  "categories": [
+    {
+      "id": "trending",
+      "title": "Trending",
+      "effects": [372610445960083]
+    },
+    {
+      "id": "new",
+      "title": "New Arrivals",
+      "effects": [372610445960083]
+    },
+    {
+      "id": "romance",
+      "title": "AI Romance",
+      "effects": [372610445960083]
+    },
+    {
+      "id": "dance",
+      "title": "AI Dance",
+      "effects": [372610445960083]
+    },
+    {
+      "id": "heart",
+      "title": "Heart Echo",
+      "effects": [372610445960083]
+    },
+    
+    {
+      "id": "dual",
+      "title": "Dual Image",
+      "effects": [372610445960083]
+    },
+    {
+      "id": "live",
+      "title": "Live in Style",
+      "effects": [372610445960083]
+    },
+    
+    {
+      "id": "weirdo",
+      "title": "Weirdo's Party",
+      "effects": [372610445960083]
+    },
+    
+    {
+      "id": "from",
+      "title": "From Creator",
+      "effects": [372610445960083]
+    },
+    
+    {
+      "id": "festival",
+      "title": "Festival Vibe",
+      "effects": [372610445960083]
+    },
+    
+    {
+      "id": "cutie",
+      "title": "Cutie Verse",
+      "effects": [372610445960083]
+    },
+    
+    {
+      "id": "product",
+      "title": "Product Marketing",
+      "effects": [372610445960083]
+    }
+  ],
+  "effects": {
+    "372610445960083": {
+      "display_name": "Winter Ice Queen",
+      "template_id": 372610445960083,
+      "workflow_tag": "meta_nanopro_it2v_v5_251204",
+      "display_prompt": "A magical transformation into an elegant, surreal Ice Queen wrapped in soft winter light.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2Fe05bd293-6e5f-46d4-ae98-41c238a66cde.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F88ecb1d2-2a8e-4c51-aebf-2ec6f81d4fcd.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F88ecb1d2-2a8e-4c51-aebf-2ec6f81d4fcd.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Fe1537327-0110-45d8-be0d-731c566b872b.mp3"
+    }
+  }
+}
