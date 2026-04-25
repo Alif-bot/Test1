@@ -5,7 +5,7 @@
     {
       "id": "trending",
       "title": "Trending",
-      "effects": [372610445960083]
+      "effects": [372610445960083, 313555098280384]
     },
     {
       "id": "new",
@@ -121,6 +121,19 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-shake-251109.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-shake-251109.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp-shake-251109.MP3"
+    },
+    "313555098280384": {
+      "display_name": "Bikini Up!",
+      "template_id": 313555098280384,
+      "workflow_tag": "bikini_250217",
+      "display_prompt": "Catch the wave, rock that bikini vibe!",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_bikini_250218.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_bikini_250218.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_bikini_250218.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F313555098280384.MP3"
     }
   }
 }
