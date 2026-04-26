@@ -1,11 +1,11 @@
 {
-  "version": 3,
+  "version": 4,
   "updated_at": "2026-04-25",
   "categories": [
     {
       "id": "trending",
       "title": "Trending",
-      "effects": [372610445960083, 313555098280384]
+      "effects": [372610445960083, 313555098280384, 303788802773760, 325501134629952, 336699420635904]
     },
     {
       "id": "new",
@@ -134,6 +134,45 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_bikini_250218.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_bikini_250218.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F313555098280384.MP3"
+    },
+    "303788802773760": {
+      "display_name": "Evil Trigger",
+      "template_id": 303788802773760,
+      "workflow_tag": "wicked_paintings_241028",
+      "display_prompt": "Grab the gun, pull the trigger, and let it rip!",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fire_250328.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fire_250328.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fire_250328.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_fire_250328.MP3"
+    },
+    "325501134629952": {
+      "display_name": "Polar Bear Shock",
+      "template_id": 325501134629952,
+      "workflow_tag": "polarbear_250304",
+      "display_prompt": "A polar bear suddenly jumps out and hugs you",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_polarbear_250304.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_polarbear_250304.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_polarbear_250304.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F325501134629952.MP3"
+    },
+    "336699420635904": {
+      "display_name": "Dream Mount",
+      "template_id": 325501134629952,
+      "workflow_tag": "mount_250506",
+      "display_prompt": "Choose your ride, and ride your vibe.",
+      "effect_type": "2",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-dreammount-251109-%E5%B0%81%E9%9D%A2.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-dreammount-251109.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-dreammount-251109.webp"",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp-dreammount-251109.MP3"
     }
   }
 }
