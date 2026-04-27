@@ -13,7 +13,9 @@
         381856734706963,
         362350589198976,
         372980970645589,
-        376165206843264
+        376165206843264,
+        340361643937600,
+        382202790969571
       ]
     },
     {
@@ -75,7 +77,7 @@
     {
       "id": "product",
       "title": "Product Marketing",
-      "effects": [368492376619456, 366950091449152, 361429166535744]
+      "effects": [368492376619456, 366950091449152, 361429166535744, 369281788356224]
     }
   ],
   "effects": {
@@ -273,6 +275,45 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_train_251216.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_train_251216.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_train_251216.mp3"
+    },
+     "369281788356224": {
+      "display_name": "Mechanical Assembly",
+      "template_id": 369281788356224,
+      "workflow_tag": "mechanical_20151106",
+      "display_prompt": "Generate a creative advertisement showing the product's components being disassembled and then reassembled.",
+      "effect_type": "1",
+      "duration": 6,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%9C%BA%E6%A2%B0%E7%BB%84%E8%A3%85.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%9C%BA%E6%A2%B0%E7%BB%84%E8%A3%85.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%9C%BA%E6%A2%B0%E7%BB%84%E8%A3%85.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%9C%BA%E6%A2%B0%E7%BB%84%E8%A3%851.mp3"
+    },
+    "340361643937600": {
+      "display_name": "Bald Swipe",
+      "template_id": 340361643937600,
+      "workflow_tag": "bald_250527",
+      "display_prompt": "When hair meets monkey hands—it’s gone.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-monkey-251107.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-monkey-251107.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-monkey-251107.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-monkey-251107.MP3"
+    },
+    "382202790969571": {
+      "display_name": "The Don's Study",
+      "template_id": 382202790969571,
+      "workflow_tag": "",
+      "display_prompt": "Assume the role of the mafia boss with this dramatic lighting inspired by The Godfather.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F2ba83f9f-d2ad-4aa3-8380-ce0f47469ff8.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2Faa8c6fe3-075c-4ab7-a464-40ceb46d01b1.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2Faa8c6fe3-075c-4ab7-a464-40ceb46d01b1.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F29ffdb83-4b99-4ad0-9840-0edd4fa72ef6.mp3"
     }
   }
 }
