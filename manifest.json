@@ -74,7 +74,7 @@
     {
       "id": "product",
       "title": "Product Marketing",
-      "effects": [372610445960083, 368492376619456]
+      "effects": [368492376619456, 366950091449152]
     }
   ],
   "effects": {
@@ -233,6 +233,19 @@
       "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F28227ecf-dc98-4985-9572-f95e8b41fc50.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F28227ecf-dc98-4985-9572-f95e8b41fc50.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_flower_251128_2.mp3"
+    },
+    "366950091449152": {
+      "display_name": "Macaron Machine",
+      "template_id": 366950091449152,
+      "workflow_tag": "machineexplored_251015",
+      "display_prompt": "The Machine Exploded, Your Products Are Given Away!",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%89%AD%E8%9B%8B%E6%9C%BA%E7%88%86%E7%82%B8%E5%B9%BF%E5%91%8A.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%89%AD%E8%9B%8B%E6%9C%BA%E7%88%86%E7%82%B8%E5%B9%BF%E5%91%8A.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%89%AD%E8%9B%8B%E6%9C%BA%E7%88%86%E7%82%B8%E5%B9%BF%E5%91%8A.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%89%AD%E8%9B%8B%E6%9C%BA%E7%88%86%E7%82%B8%E5%B9%BF%E5%91%8A1.mp3"
     }
   }
 }
