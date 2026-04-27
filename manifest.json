@@ -12,7 +12,8 @@
         336699420635904, 
         381856734706963,
         362350589198976,
-        372980970645589
+        372980970645589,
+        376165206843264
       ]
     },
     {
@@ -259,6 +260,19 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%B5%B7%E6%8A%A5%E5%B9%BF%E5%91%8A.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%B5%B7%E6%8A%A5%E5%B9%BF%E5%91%8A.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%B5%B7%E6%8A%A5%E5%B9%BF%E5%91%8A%C2%B7.mp3"
+    },
+    "376165206843264": {
+      "display_name": "Siberian Reunion Train",
+      "template_id": 376165206843264,
+      "workflow_tag": "meta_nanopro_2_transition_v5_251215",
+      "display_prompt": "Ding-ding! Warm inside the carriage, relive the deepest winter reunion memory.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_train_251216.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_train_251216.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_train_251216.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_train_251216.mp3"
     }
   }
 }
