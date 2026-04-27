@@ -17,7 +17,9 @@
         340361643937600,
         382202790969571,
         368889104245735,
-        343241420215360
+        343241420215360,
+        381089861204928,
+        379687567643648
       ]
     },
     {
@@ -342,6 +344,32 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_cleopatra_250613.mov",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_cleopatra_250613.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_cleopatra_250613.MP3"
+    },
+    "381089861204928": {
+      "display_name": "Big Guy Flex",
+      "template_id": 381089861204928,
+      "workflow_tag": "meta_mimic_260107",
+      "display_prompt": "Big muscles, bigger vibes!",
+      "effect_type": "1",
+      "duration": 14,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_bigguy_260112_2.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_bigguy_260112_2.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_bigguy_260112_2.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_bigguy_260112_2.mp3"
+    },
+    "379687567643648": {
+      "display_name": "Slick-Back Style",
+      "template_id": 379687567643648,
+      "workflow_tag": "meta_nano1_transition_v5_251204",
+      "display_prompt": "A simple touch instantly transforms your hairstyle into a clean, confident slick-back look.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_beitou_260109.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_beitou_260109.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_beitou_260109.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_beitou_260109.mp3"
     }
   }
 }
