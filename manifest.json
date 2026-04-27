@@ -19,7 +19,9 @@
         368889104245735,
         343241420215360,
         381089861204928,
-        379687567643648
+        379687567643648,
+        370480462623552,
+        373505941139534
       ]
     },
     {
@@ -35,7 +37,7 @@
     {
       "id": "dance",
       "title": "AI Dance",
-      "effects": [337572593925696, 343058524240960]
+      "effects": [337572593925696, 343058524240960, 343058274917440]
     },
     {
       "id": "heart",
@@ -370,6 +372,45 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_beitou_260109.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_beitou_260109.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_beitou_260109.mp3"
+    },
+    "370480462623552": {
+      "display_name": "My Super Giant Cat",
+      "template_id": 370480462623552,
+      "workflow_tag": "mysupergiantcat_251113",
+      "display_prompt": "Bigger than dreams, closer than comfort.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_mysupergiantcat_251113.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_mysupergiantcat_251113.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_mysupergiantcat_251113.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_1mysupergiantcat_251113.mp3"
+    },
+     "373505941139534": {
+      "display_name": "Winter Spirit",
+      "template_id": 373505941139534,
+      "workflow_tag": "",
+      "display_prompt": "The winter spirit takes hold of you.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2Fa9854c53-ba64-4f06-9244-76ea0a9b0813.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F1d5aa309-ec27-47d6-840c-96e979e89f52.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F1d5aa309-ec27-47d6-840c-96e979e89f52.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F30660710-384e-4a27-afa7-f24037f7f0cf.mp3"
+    },
+    "343058274917440": {
+      "display_name": "Gabu Dance",
+      "template_id": 343058274917440,
+      "workflow_tag": "gabudance_250609",
+      "display_prompt": "Eu Sento Gabu! Everywhere you walk is Runway",
+      "effect_type": "1",
+      "duration": 12,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_gabudance_0624.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_gabudance_0625.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_gabudance_0625.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fgabu.MP3"
     }
   }
 }
