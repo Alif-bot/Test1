@@ -11,7 +11,8 @@
         325501134629952, 
         336699420635904, 
         381856734706963,
-        362350589198976
+        362350589198976,
+        372980970645589
       ]
     },
     {
@@ -219,6 +220,19 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_thanksgiving_251128.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_thanksgiving_251128.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_thanksgiving_251128_2.mp3"
+    },
+    "372980970645589": {
+      "display_name": "Flora Nymph Gown",
+      "template_id": 372980970645589,
+      "workflow_tag": "",
+      "display_prompt": "Petals are the most luxurious fabric.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2Ff7fdfdb4-bd7e-4881-82c7-cadd47b69ab6.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F28227ecf-dc98-4985-9572-f95e8b41fc50.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F28227ecf-dc98-4985-9572-f95e8b41fc50.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_flower_251128_2.mp3"
     }
   }
 }
