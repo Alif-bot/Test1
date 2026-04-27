@@ -15,7 +15,8 @@
         372980970645589,
         376165206843264,
         340361643937600,
-        382202790969571
+        382202790969571,
+        368889104245735
       ]
     },
     {
@@ -314,6 +315,19 @@
       "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2Faa8c6fe3-075c-4ab7-a464-40ceb46d01b1.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2Faa8c6fe3-075c-4ab7-a464-40ceb46d01b1.webp",
       "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F29ffdb83-4b99-4ad0-9840-0edd4fa72ef6.mp3"
+    },
+    "368889104245735": {
+      "display_name": "Doomsday Frost",
+      "template_id": 368889104245735,
+      "workflow_tag": "",
+      "display_prompt": "A frozen world where silence meets the end.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_doomsdayfrost_1104.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F40aa38af-3769-4158-bb07-5e350fd5d31f.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F40aa38af-3769-4158-bb07-5e350fd5d31f.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F255369cc-19b6-43bd-9625-a51f7a16301a.MP3"
     }
   }
 }
