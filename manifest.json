@@ -21,7 +21,8 @@
         381089861204928,
         379687567643648,
         370480462623552,
-        373505941139534
+        373505941139534,
+        382917937780023
       ]
     },
     {
@@ -83,7 +84,13 @@
     {
       "id": "product",
       "title": "Product Marketing",
-      "effects": [368492376619456, 366950091449152, 361429166535744, 369281788356224]
+      "effects": [
+        368492376619456, 
+        366950091449152, 
+        361429166535744, 
+        369281788356224, 
+        65192361458432
+      ]
     }
   ],
   "effects": {
@@ -411,6 +418,32 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_gabudance_0625.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_gabudance_0625.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fgabu.MP3"
+    },
+    "65192361458432": {
+      "display_name": "Supermarket AD",
+      "template_id": 65192361458432,
+      "workflow_tag": "supermarket_251014",
+      "display_prompt": "Display your products centrally in the supermarket.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E9%A3%9F%E5%93%81%E8%B4%A7%E6%9E%B62.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E9%A3%9F%E5%93%81%E8%B4%A7%E6%9E%B62.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E9%A3%9F%E5%93%81%E8%B4%A7%E6%9E%B62.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E9%A3%9F%E5%93%81%E8%B4%A7%E6%9E%B63.mp3"
+    },
+    "382917937780023": {
+      "display_name": "Mad Max",
+      "template_id": 382917937780023,
+      "workflow_tag": "",
+      "display_prompt": "Run faster, Max",
+      "effect_type": "1",
+      "duration": 8,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F83227f9e-bba9-478d-93a2-5238ef6cb69e.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fde57174c-edca-4db9-aa6c-af6216c0d892.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F050c3b6a-74c2-426e-94d1-8f21655893c0.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F2e79ec51-094e-49fd-85a7-675931ca3685.mp3"
     }
   }
 }
