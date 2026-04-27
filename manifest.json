@@ -55,7 +55,7 @@
     {
       "id": "from",
       "title": "From Creator",
-      "effects": [372610445960083]
+      "effects": [373148934592000]
     },
     
     {
@@ -206,6 +206,19 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_dragon_250928.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_dragon_250928.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_dragon_250928.MP3"
+    },
+    "373148934592000": {
+      "display_name": "Balloon Parade",
+      "template_id": 373148934592000,
+      "workflow_tag": "thanksgiving_251128",
+      "display_prompt": "Today, you are the lord! Join the grand parade and enjoy the spotlight.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_thanksgiving_251128.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_thanksgiving_251128.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_thanksgiving_251128.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_thanksgiving_251128_2.mp3"
     }
   }
 }
