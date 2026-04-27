@@ -16,7 +16,8 @@
         376165206843264,
         340361643937600,
         382202790969571,
-        368889104245735
+        368889104245735,
+        343241420215360
       ]
     },
     {
@@ -328,6 +329,19 @@
       "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F40aa38af-3769-4158-bb07-5e350fd5d31f.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F40aa38af-3769-4158-bb07-5e350fd5d31f.webp",
       "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F255369cc-19b6-43bd-9625-a51f7a16301a.MP3"
+    },
+    "343241420215360": {
+      "display_name": "Cleopatra Reborn",
+      "template_id": 343241420215360,
+      "workflow_tag": "cleopatra_250612",
+      "display_prompt": "No more pretending — I am Cleopatra.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_cleopatra_250613.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_cleopatra_250613.mov",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_cleopatra_250613.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_cleopatra_250613.MP3"
     }
   }
 }
