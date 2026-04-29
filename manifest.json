@@ -28,7 +28,7 @@
     {
       "id": "new",
       "title": "New Arrivals",
-      "effects": [372610445960083]
+      "effects": [366799217822656, 381059488039360, 380026708122688, 381858675348761]
     },
     {
       "id": "romance",
@@ -444,6 +444,58 @@
       "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fde57174c-edca-4db9-aa6c-af6216c0d892.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F050c3b6a-74c2-426e-94d1-8f21655893c0.webp",
       "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F2e79ec51-094e-49fd-85a7-675931ca3685.mp3"
+    },
+    "366799217822656": {
+      "display_name": "Pole Split Vixen",
+      "template_id": 366799217822656,
+      "workflow_tag": "newpole_251023",
+      "display_prompt": "Split it fierce. Show them the Vixen way.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_newpole_251023.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_newpole_251023.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_newpole_251023.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_newpole_251023.mp3"
+    },
+    "381059488039360": {
+      "display_name": "Chanel Vibe",
+      "template_id": 381059488039360,
+      "workflow_tag": "meta_mimic_260107",
+      "display_prompt": "Everything Chanel, on a different level.",
+      "effect_type": "1",
+      "duration": 12,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fchaneldance.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fchaneldance.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fchaneldance_260113.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fchaneldance3.mp3"
+    },
+    "380026708122688": {
+      "display_name": "Comic Hero in Action",
+      "template_id": 380026708122688,
+      "workflow_tag": "meta_nanopro_it2v_v5_251204",
+      "display_prompt": "Become the hero of your own comic!",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-comic.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-comic.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-comic.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fcosmic%E9%9F%B3%E9%A2%91.MP3"
+    },
+    "381858675348761": {
+      "display_name": "VHS Rewind 80s",
+      "template_id": 381858675348761,
+      "workflow_tag": "",
+      "display_prompt": "Take a journey through time with this VHS tape effect from the 80s, featuring analog glitches and neon lights.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F0b83ba91-c1f8-496e-9718-c5bcb8cfa41d.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F88da3c8a-fdae-4cc3-80dd-b986725e034d.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F88da3c8a-fdae-4cc3-80dd-b986725e034d.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F693a5880-257d-43e6-a730-351ec2dd13cc.mp3"
     }
   }
 }
