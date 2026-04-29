@@ -5,7 +5,8 @@
     {
       "id": "trending",
       "title": "Trending",
-      "effects": [372610445960083, 
+      "effects": [
+        372610445960083, 
         313555098280384, 
         303788802773760, 
         325501134629952, 
@@ -33,7 +34,16 @@
     {
       "id": "romance",
       "title": "AI Romance",
-      "effects": [372610445960083]
+      "effects": [
+        359166562889024, 
+        315446315336768, 
+        340712049100608, 
+        352802159378368, 
+        353279785150016,
+        303624424723200,
+        321958627120000,
+        326733946317888
+      ]
     },
     {
       "id": "dance",
@@ -496,6 +506,110 @@
       "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F88da3c8a-fdae-4cc3-80dd-b986725e034d.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F88da3c8a-fdae-4cc3-80dd-b986725e034d.webp",
       "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F693a5880-257d-43e6-a730-351ec2dd13cc.mp3"
+    },
+    "359166562889024": {
+      "display_name": "Kiss Me to Heaven",
+      "template_id": 359166562889024,
+      "workflow_tag": "wetkiss_250910",
+      "display_prompt": "Kissing non-stop, feeling the endless desire",
+      "effect_type": "1",
+      "duration": 8,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_wetkiss_250910.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_wetkiss_250910.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_wetkiss_250910.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_wetkiss_250910_2.mp3"
+    },
+    "315446315336768": {
+      "display_name": "Kiss Kiss",
+      "template_id": 315446315336768,
+      "workflow_tag": "kiss_241202",
+      "display_prompt": "One click to send your kiss",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kisskiss_250610.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kisskiss_0610.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kisskiss_0610.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_kisskiss_250610.MP3"
+    },
+    "340712049100608": {
+      "display_name": "Hug Together",
+      "template_id": 340712049100608,
+      "workflow_tag": "interact_hug_250529",
+      "display_prompt": "Merge photos, share love.",
+      "effect_type": "2",
+      "duration": 5,
+      "marker": "hot",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340712049100608_251107.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340712049100608_251107.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340712049100608_251107.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340712049100608_251107.MP3"
+    },
+    "352802159378368": {
+      "display_name": "Mwah Mwah",
+      "template_id": 352802159378368,
+      "workflow_tag": "kiss_2_250805",
+      "display_prompt": "A soft kiss strong enough to shatter",
+      "effect_type": "2",
+      "duration": 5,
+      "marker": "hot",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kiss2_250805.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kiss2_250805.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kiss2_250805.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_kiss2_250805.mp3"
+    },
+    "353279785150016": {
+      "display_name": "Officer Crush",
+      "template_id": 353279785150016,
+      "workflow_tag": "myofficer_250808",
+      "display_prompt": "Come closer, Officer. I’m almost yours.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_officer_250808.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_officer_250808.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_officer_250808.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_officer_250808.mp3"
+    },
+    "303624424723200": {
+      "display_name": "Hug Your Love",
+      "template_id": 303624424723200,
+      "workflow_tag": "hug_love_241030",
+      "display_prompt": "Hug each other\t",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_hugyourlove2_250512.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_hugyourlove2_250512.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_hugyourlove2_250512.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_hugyourlove_250512.MP3"
+    },
+    "321958627120000": {
+      "display_name": "Kiss Me, AI!",
+      "template_id": 321958627120000,
+      "workflow_tag": "ailover_250212",
+      "display_prompt": "No Lover? Get an AI Sweetheart!",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ailover_250212.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ailover_250212.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ailover_250212.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F321958627120000.MP3"
+    },
+    "326733946317888": {
+      "display_name": "Forever Us",
+      "template_id": 326733946317888,
+      "workflow_tag": "couple_250311",
+      "display_prompt": "Enjoy your wedding with the one you love most",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwedding_250321.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwedding_250321.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwedding_250321.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V5.5_Effect_1080P_%E4%B8%8E%E4%BD%A0%E7%9A%84%E6%8C%9A%E7%88%B1%E6%9D%A5%E4%B8%80%E5%9C%BA%E6%B5%AA%E6%BC%AB%E5%A9%9A%E7%A4%BC.mp3"
     }
   }
 }
