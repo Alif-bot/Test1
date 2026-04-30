@@ -54,7 +54,8 @@
         343058524240960, 
         343058274917440,
         381090080287680,
-        372740965667137
+        372740965667137,
+        367302749516608
       ]
     },
     {
@@ -656,6 +657,19 @@
       "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F4007ac41-2640-45c2-80a1-a6ea63be5721.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F4007ac41-2640-45c2-80a1-a6ea63be5721.webp",
       "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F55fd7e8d-6502-4f12-8fb1-4888b4ce4e30.mp3"
+    },
+    "367302749516608": {
+      "display_name": "Silly Bird Shimmy",
+      "template_id": 367302749516608,
+      "workflow_tag": "birdman_251026",
+      "display_prompt": "The trend is here. Time to lose your mind with the Silly Bird Shimmy.",
+      "effect_type": "1",
+      "duration": 15,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_birdman_251029.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_birdman_251029.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_birdman_251029.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fbird_bgm_251031.MP3"
     }
   }
 }
