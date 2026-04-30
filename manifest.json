@@ -55,7 +55,11 @@
         343058274917440,
         381090080287680,
         372740965667137,
-        367302749516608
+        367302749516608,
+        369205206102208,
+        369205270681792,
+        367828176752256,
+        369205027418304
       ]
     },
     {
@@ -670,6 +674,58 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_birdman_251029.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_birdman_251029.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fbird_bgm_251031.MP3"
+    },
+    "369205206102208": {
+      "display_name": "Kitchen Shuffle",
+      "template_id": 369205206102208,
+      "workflow_tag": "penguin_251102",
+      "display_prompt": "One wrong step—welcome to the kitchen rhythm!.",
+      "effect_type": "1",
+      "duration": 7,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kitchenshuffle3_251118.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kitchenshuffle3_251118.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kitchenshuffle3_251118.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_kitchenshuffle1_251118.mp3"
+    },
+    "369205270681792": {
+      "display_name": "Wiggle & Wobble Challenge",
+      "template_id": 369205270681792,
+      "workflow_tag": "bodywave_251102",
+      "display_prompt": "Shake off the limits. Wiggle your way to your most confident self!",
+      "effect_type": "1",
+      "duration": 10,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwave_251116.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwave_251116.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwave_251116.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwave_251116.mp3"
+    },
+     "367828176752256": {
+      "display_name": "Aşkım Çok Pardon",
+      "template_id": 367828176752256,
+      "workflow_tag": "turkey_261029",
+      "display_prompt": "The viral trend is here. Join the Aşkım Çok Pardon dance challenge!",
+      "effect_type": "1",
+      "duration": 7,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_turkey_251029.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_turkey_251029.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_turkey_251029.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_turkey_251029_2.mp3"
+    },
+    "369205027418304": {
+      "display_name": "The Nasty Step",
+      "template_id": 369205027418304,
+      "workflow_tag": "shenzailun_251102",
+      "display_prompt": "Your body, your rules. Be the nastiest main character tonight.",
+      "effect_type": "1",
+      "duration": 13,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fshenzailun_251116.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fshenzailun_251116.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fshenzailun_251116.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fshenzailun_251116.mp3"
     }
   }
 }
