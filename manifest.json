@@ -48,7 +48,14 @@
     {
       "id": "dance",
       "title": "AI Dance",
-      "effects": [337572593925696, 343058524240960, 343058274917440]
+      "effects": [
+        369204968292544,
+        337572593925696, 
+        343058524240960, 
+        343058274917440,
+        381090080287680,
+        372740965667137
+      ]
     },
     {
       "id": "heart",
@@ -610,6 +617,45 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwedding_250321.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwedding_250321.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V5.5_Effect_1080P_%E4%B8%8E%E4%BD%A0%E7%9A%84%E6%8C%9A%E7%88%B1%E6%9D%A5%E4%B8%80%E5%9C%BA%E6%B5%AA%E6%BC%AB%E5%A9%9A%E7%A4%BC.mp3"
+    },
+    "369204968292544": {
+      "display_name": "Sugar on My Tongue",
+      "template_id": 369204968292544,
+      "workflow_tag": "sugar_251102",
+      "display_prompt": "Let your body pop like a candy.",
+      "effect_type": "1",
+      "duration": 13,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_sugar_251116.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_sugar_251116.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_sugar_251116.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_sugar_251116.mp3"
+    },
+    "381090080287680": {
+      "display_name": "Classroom Show",
+      "template_id": 381090080287680,
+      "workflow_tag": "meta_mimic_260107",
+      "display_prompt": "No one can stop my rhythm in class!",
+      "effect_type": "1",
+      "duration": 10,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_class_260112.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_class_260112.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_class_260112.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_class_260112.mp3"
+    },
+    "372740965667137": {
+      "display_name": "Snow on my head!",
+      "template_id": 372740965667137,
+      "workflow_tag": "",
+      "display_prompt": "Be careful, the snow's everywhere!",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F1c048151-f077-4063-9f1d-080df53f3281.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F4007ac41-2640-45c2-80a1-a6ea63be5721.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F4007ac41-2640-45c2-80a1-a6ea63be5721.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F55fd7e8d-6502-4f12-8fb1-4888b4ce4e30.mp3"
     }
   }
 }
