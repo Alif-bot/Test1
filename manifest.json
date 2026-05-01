@@ -118,7 +118,12 @@
         340383170699072,
         339133943656192,
         335610959448832,
-        333181805861952
+        333181805861952,
+        316645675647872,
+        315447659476032,
+        322852853601344,
+        327829606196096,
+        326607027713088
       ]
     }, 
     {
@@ -1390,6 +1395,71 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_killbill_250424.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_killbill_250424.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F333181805861952.MP3"
+    },
+    "316645675647872": {
+      "display_name": "Smoking Vibe",
+      "template_id": 316645675647872,
+      "workflow_tag": "smoke_250113",
+      "display_prompt": "Smoke cigar, vibe like a boss.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwebsmoke250113.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwebsmoke250113.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwebsmoke250113.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F316645675647872.MP3"
+    },
+    "315447659476032": {
+      "display_name": "Kungfu Club",
+      "template_id": 315447659476032,
+      "workflow_tag": "fight_250106",
+      "display_prompt": "Let the battle begin",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fight_250114.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fight_250114.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fight_250114.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F315447659476032.MP3"
+    },
+    "322852853601344": {
+      "display_name": "Vogue Walk",
+      "template_id": 322852853601344,
+      "workflow_tag": "runwaywalk_250217",
+      "display_prompt": "Walk like a supermodel and shine brighter than ever",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_model_250312.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_model_250312.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_model_250312.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F322852853601344_2.MP3"
+    },
+    "327829606196096": {
+      "display_name": "Money Tornado",
+      "template_id": 327829606196096,
+      "workflow_tag": "money360_250317",
+      "display_prompt": "Money rains down, enjoy the wealth storm! ",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_money360_250326.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_money360_250326.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_money360_250326.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F327829606196096_2.MP3"
+    },
+    "326607027713088": {
+      "display_name": "Fire Roar",
+      "template_id": 326607027713088,
+      "workflow_tag": "firespitter_250310",
+      "display_prompt": "Unleash your inner flame ",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fire_250312.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fire_250312.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fire_250312.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F326607027713088.MP3"
     }
   }
 }
