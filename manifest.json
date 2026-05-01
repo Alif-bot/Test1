@@ -95,7 +95,17 @@
       "id": "alpha",
       "title": "Alpha Boss",
       "effects": [
-        308621408717184
+        308621408717184,
+        349232644550272,
+        349232463042176,
+        370472489673650,
+        370476424049609,
+        368689273684736,
+        367301708446528,
+        368723165573888,
+        367472828659200,
+        360586769510976,
+        359850491398912
       ]
     }, 
     {
@@ -1068,6 +1078,136 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_muscle_0610.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_muscle_0610.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_muscle_0610.MP3"
+    },
+    "349232644550272": {
+      "display_name": "My Girlfriendssss",
+      "template_id": 349232644550272,
+      "workflow_tag": "yourgirls_250716",
+      "display_prompt": "They’re here for me, and I’m here for them.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_yourgirls_250716.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_yourgirls_250716.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_yourgirls_250716.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_girls_250716.MP3"
+    },
+    "349232463042176": {
+      "display_name": "My Boyfriendsssss",
+      "template_id": 349232463042176,
+      "workflow_tag": "yourboys_250716",
+      "display_prompt": "Too hot to handle. Too close to say no.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_yourboys_250716.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_yourboys_250716.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_yourboys_250716.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_yourboys_250716.MP3"
+    },
+    "370472489673650": {
+      "display_name": "Come Feel My Abs",
+      "template_id": 370472489673650,
+      "workflow_tag": "",
+      "display_prompt": "Eight-pack abs, all yours, and I'm yours too.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F26f3995c-d06b-4aea-8dc7-eb84bf923fe5.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F089b5613-1531-440c-8570-800902d9ed55.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F089b5613-1531-440c-8570-800902d9ed55.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F869960e4-bcd9-4ea5-b9f4-910dd252ceaa.MP3"
+    },
+    "370476424049609": {
+      "display_name": "The Bicep Flex",
+      "template_id": 370476424049609,
+      "workflow_tag": "",
+      "display_prompt": "Maximize the muscle. Hit that perfect power pose.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F3abc13ef-a189-4621-86e4-eab80db3a205.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F95937f0a-b5e4-4a78-a503-bada2f3a76d9.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F95937f0a-b5e4-4a78-a503-bada2f3a76d9.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Fd58aa11e-cd33-4920-ac49-0ecc5fbe6262.MP3"
+    },
+    "368689273684736": {
+      "display_name": "AI Museum Portrait",
+      "template_id": 368689273684736,
+      "workflow_tag": "aimuseum_251103",
+      "display_prompt": "Curated by AI. Discover your place in art history.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_aimuseum_251103.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_aimuseum_251103.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_aimuseum_251103.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_aimuseum_251103_3.mp3"
+    },
+    "367301708446528": {
+      "display_name": "Call me Godfather",
+      "template_id": 367301708446528,
+      "workflow_tag": "whydidn’tyoucallmegodfather_252026",
+      "display_prompt": "You never ask me about my business, you never ask me to be godfather to your child.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_whydidn%E2%80%99tyoucallmegodfather_252026.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_whydidn%E2%80%99tyoucallmegodfather_252026.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_whydidn%E2%80%99tyoucallmegodfather_252026.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_whydidn%E2%80%99tyoucallmegodfather_252026.MP3"
+    },
+    "368723165573888": {
+      "display_name": "The Rose and Freedom",
+      "template_id": 368723165573888,
+      "workflow_tag": "theroseandfreedom_251103",
+      "display_prompt": "At sunset, one shot, one rose, endless freedom.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_theroseandfreedom_251103.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_theroseandfreedom_251103.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_theroseandfreedom_251103.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_theroseandfreedom_251103.MP3"
+    },
+     "367472828659200": {
+      "display_name": "Workplace persona",
+      "template_id": 367472828659200,
+      "workflow_tag": "testyourworkplacepersona_251027",
+      "display_prompt": "Take a look and discover your workplace persona!",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_testyourworkplacepersona_251027.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_testyourworkplacepersona_251027.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_testyourworkplacepersona_251027.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_testyourworkplacepersona_251027.MP3"
+    },
+    "360586769510976": {
+      "display_name": "Tarot Card",
+      "template_id": 360586769510976,
+      "workflow_tag": "tarot_250918",
+      "display_prompt": "Glimpse into the soul, unlock your destiny's code.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-tarot-251107.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-tarot-251107.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-tarot-251107.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-tarot-251107.MP3"
+    },
+    "360586769510976": {
+      "display_name": "Muscle Pro",
+      "template_id": 360586769510976,
+      "workflow_tag": "muscle_250914",
+      "display_prompt": "Your body, born powerful.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_muscle_250914.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_muscle_250914.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_muscle_250914.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_muscle_250914.mp3"
     }
   }
 }
