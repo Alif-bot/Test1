@@ -91,7 +91,13 @@
         313649622731200
       ]
     },
-    
+    {
+      "id": "alpha",
+      "title": "Alpha Boss",
+      "effects": [
+        308621408717184
+      ]
+    }, 
     {
       "id": "dual",
       "title": "Dual Image",
@@ -1049,6 +1055,19 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_anglewings_250208.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_anglewings_250208.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F313649622731200.MP3"
+    },
+    "308621408717184": {
+      "display_name": "Muscle Surge",
+      "template_id": 308621408717184,
+      "workflow_tag": "muscle_241128",
+      "display_prompt": "Show off your strong muscles and have everyone hooked.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_muscle_0610.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_muscle_0610.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_muscle_0610.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_muscle_0610.MP3"
     }
   }
 }
