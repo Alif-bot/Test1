@@ -115,7 +115,10 @@
         344131642438080,
         342538347747072,
         342180291926592,
-        340383170699072
+        340383170699072,
+        339133943656192,
+        335610959448832,
+        333181805861952
       ]
     }, 
     {
@@ -1348,6 +1351,45 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_thunder_250527.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_thunder_250527.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_thunder_250527.MP3"
+    },
+    "339133943656192": {
+      "display_name": "BOOM DROP",
+      "template_id": 339133943656192,
+      "workflow_tag": "explode_250520",
+      "display_prompt": "A real man never looks back at the explosion behind him",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_explode_250520.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_explode_250520.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_explode_250520.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_explode_250520.MP3"
+    },
+    "335610959448832": {
+      "display_name": "Werewolf Rage",
+      "template_id": 335610959448832,
+      "workflow_tag": "wereworf_250430",
+      "display_prompt": "The full moon rises, your fangs come out.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_werewolf_250430.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_werewolf_250430.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_werewolf_250430.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_werewolf_250430.MP3"
+    },
+    "333181805861952": {
+      "display_name": "KILL BILL",
+      "template_id": 333181805861952,
+      "workflow_tag": "killbill_250416",
+      "display_prompt": "Swing the blade. Make the cut.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_killbill_250424.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_killbill_250424.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_killbill_250424.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F333181805861952.MP3"
     }
   }
 }
