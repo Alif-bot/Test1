@@ -129,7 +129,13 @@
     {
       "id": "dual",
       "title": "Dual Image",
-      "effects": []
+      "effects": [
+        335104003407232,
+        345014411085376,
+        340952173729600,
+        334005897813056,
+        338611800368896
+      ]
     },
     {
       "id": "live",
@@ -169,7 +175,8 @@
         366950091449152, 
         361429166535744, 
         369281788356224, 
-        65192361458432
+        65192361458432,
+        364649375312640
       ]
     }
   ],
@@ -1460,6 +1467,84 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fire_250312.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fire_250312.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F326607027713088.MP3"
+    },
+    "335104003407232": {
+      "display_name": "Grow Up",
+      "template_id": 335104003407232,
+      "workflow_tag": "growup_250427",
+      "display_prompt": "Start time travel with one click",
+      "effect_type": "2",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-335104003407232-251107.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-335104003407232-251107.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-335104003407232-251107.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F335104003407232-251107.MP3"
+    },
+    "340952173729600": {
+      "display_name": "Change My Outfit",
+      "template_id": 340952173729600,
+      "workflow_tag": "outfitchange_250324",
+      "display_prompt": "Different style matches different mood",
+      "effect_type": "2",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_outfitchange_250530.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_changemyoutfit__250604.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_changemyoutfit__250604.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_changemyoutfit_250604.MP3"
+    },
+    "345014411085376": {
+      "display_name": "Winged Wardrobe",
+      "template_id": 345014411085376,
+      "workflow_tag": "outfitchange_250324",
+      "display_prompt": "Wear ethereal wings and dazzle like a supermodel",
+      "effect_type": "2",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_modelangel_0622.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_winged_0623.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_winged_0623.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_modelangel_0622.MP3"
+    },
+    "334005897813056": {
+      "display_name": "Transition",
+      "template_id": 334005897813056,
+      "workflow_tag": "transition_250421",
+      "display_prompt": "You can become anyone you want",
+      "effect_type": "2",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_transition_250422.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_transition_250422.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_transition_250422.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F334005897813056.MP3"
+    },
+    "338611800368896": {
+      "display_name": "Just a Friend?",
+      "template_id": 338611800368896,
+      "workflow_tag": "growup_250427",
+      "display_prompt": "One click from Chill to Slay",
+      "effect_type": "2",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-justafriend-251109-%E5%B0%81%E9%9D%A2.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-justafriend-251109.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-justafriend-251109.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-justafriend-251109.MP3"
+    },
+    "364649375312640": {
+      "display_name": "Ocean AD",
+      "template_id": 364649375312640,
+      "workflow_tag": "oceanad_251011",
+      "display_prompt": "Place your product under the sea",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%B5%B7%E6%B4%8B%E5%8C%96%E5%A6%86%E5%93%81.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%B5%B7%E6%B4%8B%E5%8C%96%E5%A6%86%E5%93%81.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%B5%B7%E6%B4%8B%E5%8C%96%E5%A6%86%E5%93%81.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%B5%B7%E6%B4%8B%E5%8C%96%E5%A6%86%E5%93%811.mp3"
     }
   }
 }
