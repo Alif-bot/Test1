@@ -140,7 +140,7 @@
     {
       "id": "live",
       "title": "Live in Style",
-      "effects": [372610445960083]
+      "effects": [372921784232832, 380178461924416, 359328847686976, 347130211954560]
     },
     
     {
@@ -1545,6 +1545,58 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%B5%B7%E6%B4%8B%E5%8C%96%E5%A6%86%E5%93%81.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%B5%B7%E6%B4%8B%E5%8C%96%E5%A6%86%E5%93%81.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%B5%B7%E6%B4%8B%E5%8C%96%E5%A6%86%E5%93%811.mp3"
+    },
+    "372921784232832": {
+      "display_name": "London Elite Vibe",
+      "template_id": 372921784232832,
+      "workflow_tag": "",
+      "display_prompt": "Suit and coffee define your British Dapper routine. Be the protagonist of the street today.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2Fe58deb39-361d-4a0c-8292-26888e5d329c.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F49b89c23-6ff1-4d16-855e-1916960529e0.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fa5c94d94-38c6-4709-868a-c851ad88c474.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F15f1fbbc-8442-40ae-8893-726e84fe6d0e.MP3"
+    },
+    "380178461924416": {
+      "display_name": "Miniature Nail Artist Live",
+      "template_id": 380178461924416,
+      "workflow_tag": "meta_nanopro_it2v_v5_251204",
+      "display_prompt": "Watch your 3D figurine create gorgeous nail designs in real-time!",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fnailart0107.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fnailart0107.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fnailart0107.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fnailart%EF%BC%88final%EF%BC%890107.mp3"
+    },
+    "359328847686976": {
+      "display_name": "Figurine Me Up!",
+      "template_id": 359328847686976,
+      "workflow_tag": "3dtoy_3_250911",
+      "display_prompt": "Turn into your own figurine, hold it in your hand and admire!",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_3dtoy_250911.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_3dtoy_250911.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_3dtoy_250911.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_3dtoy_250911_2.mp3"
+    },
+    "347130211954560": {
+      "display_name": "US Yearbook Flash",
+      "template_id": 347130211954560,
+      "workflow_tag": "usid_250704",
+      "display_prompt": "Your best moment, frozen in a single flash",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_usid_250706.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_usid_250706.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_usid_250706.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fusid_250703.MP3"
     }
   }
 }
