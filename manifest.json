@@ -6,6 +6,7 @@
       "id": "trending",
       "title": "Trending",
       "effects": [
+        402331965264704,
         402687993764864,
         372610445960083, 
         313555098280384, 
@@ -1610,6 +1611,19 @@
       "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_Create_a_short_li+%282%29.jpg",
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_Create_a_short_li+%282%29.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_Create_a_short_li+%282%29.webp",
+      "audio_path": ""
+    },
+    "402331965264704": {
+      "display_name": "Stands Cam Capture",
+      "template_id": 402331965264704,
+      "workflow_tag": "meta_gpt_it2v_v6_enhanced_260429",
+      "display_prompt": "Randomly spotlight a lucky spectator",
+      "effect_type": "1",
+      "duration": 8,
+      "marker": "hot",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_Use_the_uploaded_+%281%29.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_Use_the_uploaded_+%281%29.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_Use_the_uploaded_+%281%29.webp",
       "audio_path": ""
     }
   }
