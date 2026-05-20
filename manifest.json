@@ -6,6 +6,7 @@
       "id": "trending",
       "title": "Trending",
       "effects": [
+        402687993764864,
         372610445960083, 
         313555098280384, 
         303788802773760, 
@@ -1597,6 +1598,19 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_usid_250706.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_usid_250706.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fusid_250703.MP3"
+    },
+    "402687993764864": {
+      "display_name": "Pit Crew Moment",
+      "template_id": 402687993764864,
+      "workflow_tag": "meta_gpt_it2v_v6_enhanced_260429",
+      "display_prompt": "Step into the F1 pit crew control room.",
+      "effect_type": "1",
+      "duration": 8,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_Create_a_short_li+%282%29.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_Create_a_short_li+%282%29.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_Create_a_short_li+%282%29.webp",
+      "audio_path": ""
     }
   }
 }
