@@ -10,7 +10,8 @@
         402888569901524,
         402687993764864,
         402046136040202,
-        372610445960083, 
+        372610445960083,
+        402880241531072,
         313555098280384, 
         303788802773760, 
         325501134629952, 
@@ -1639,6 +1640,19 @@
       "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Feb471ea2-d141-4c28-a902-2d42aaabcfc8.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F7bc45f39-dc83-449d-9f27-e3ebaf450507.webp",
       "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F70028506-1231-4669-a834-dfe99a93701a.MP3"
+    },
+    "402880241531072": {
+      "display_name": "Two in the Stands",
+      "template_id": 402880241531072,
+      "workflow_tag": "",
+      "display_prompt": "Not staged, just picked by the camera.",
+      "effect_type": "2",
+      "duration": 8,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_Create_a_realisti+%281%29.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_Create_a_realisti+%281%29.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_Create_a_realisti+%281%29.webp",
+      "audio_path": ""
     }
   }
 }
