@@ -137,7 +137,11 @@
     {
       "id": "weirdo",
       "title": "Weirdo's Party",
-      "effects": [372610445960083]
+      "effects": [
+        338083197718400,
+        350827863568000,
+        367503422735872
+      ]
     },
     
     {
@@ -1666,6 +1670,45 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_Use_the_uploaded_+%282%29.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_Use_the_uploaded_+%282%29.webp",
       "audio_path": ""
+    },
+    "338083197718400": {
+      "display_name": "Punch Face",
+      "template_id": 338083197718400,
+      "workflow_tag": "punchface_250514",
+      "display_prompt": "One punch and you're a meme now",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_punch_250515.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_punch_250515.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_punch_250515.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_punch_250515.MP3"
+    },
+    "350827863568000": {
+      "display_name": "I Can Fly",
+      "template_id": 350827863568000,
+      "workflow_tag": "fly_250725",
+      "display_prompt": "Fly beyond the clouds, to a world of dreams.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Ffly_250917_2.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Ffly_250917_2.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Ffly_250917_2.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Ffly_250917.mp3"
+    },
+    "367503422735872": {
+      "display_name": "Muertos Cha-Cha",
+      "template_id": 367503422735872,
+      "workflow_tag": "deaddance_251027",
+      "display_prompt": "Forget the living, dance with the dead!",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_deaddance_251027.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_deaddance_251027.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_deaddance_251027.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_deaddance_251027.mp3"
     }
   }
 }
