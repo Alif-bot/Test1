@@ -10,7 +10,7 @@
         402888569901524,
         402687993764864,
         402046136040202,
-        372610445960083,
+        402885275072704,
         402880241531072,
         313555098280384, 
         303788802773760, 
@@ -1652,6 +1652,19 @@
       "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_Create_a_realisti+%281%29.jpg",
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_Create_a_realisti+%281%29.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_Create_a_realisti+%281%29.webp",
+      "audio_path": ""
+    },
+    "402885275072704": {
+      "display_name": "Caught Eating Live",
+      "template_id": 402885275072704,
+      "workflow_tag": "",
+      "display_prompt": "Who’s Eating on the Big Screen?!",
+      "effect_type": "1",
+      "duration": 8,
+      "marker": "hot",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_Use_the_uploaded_+%282%29.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_Use_the_uploaded_+%282%29.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_Use_the_uploaded_+%282%29.webp",
       "audio_path": ""
     }
   }
