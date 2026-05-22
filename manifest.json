@@ -140,7 +140,8 @@
       "effects": [
         338083197718400,
         350827863568000,
-        367503422735872
+        367503422735872,
+        366945220815680
       ]
     },
     
@@ -1709,6 +1710,19 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_deaddance_251027.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_deaddance_251027.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_deaddance_251027.mp3"
+    },
+    "366945220815680": {
+      "display_name": "Baby Wave",
+      "template_id": 366945220815680,
+      "workflow_tag": "babywave_251024",
+      "display_prompt": "What a happy big family!",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_babywave_251024.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_babywave1_251024.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_babywave1_251024.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_babywave1_251024.MP3"
     }
   }
 }
