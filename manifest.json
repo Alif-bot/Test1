@@ -9,6 +9,7 @@
         402331965264704,
         402888569901524,
         402687993764864,
+        402046136040202,
         372610445960083, 
         313555098280384, 
         303788802773760, 
@@ -1625,6 +1626,19 @@
       "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F34e71020-d358-41bc-899d-8a81098391f7.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F4fcdc44e-ad6d-4da7-b489-f76889e1268e.webp",
       "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Fb2d84901-9d7e-4418-8ea4-26bc0dc60123.mp3"
+    },
+    "402046136040202": {
+      "display_name": "Epic Goal Save",
+      "template_id": 402046136040202,
+      "workflow_tag": "",
+      "display_prompt": "Become a legendary goalkeeper. Catch the ball in a spectacular flying dive.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F31fec5eb-4561-49af-a1a5-1591d76a8b75.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Feb471ea2-d141-4c28-a902-2d42aaabcfc8.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F7bc45f39-dc83-449d-9f27-e3ebaf450507.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F70028506-1231-4669-a834-dfe99a93701a.MP3"
     }
   }
 }
