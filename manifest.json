@@ -7,6 +7,7 @@
       "title": "Trending",
       "effects": [
         402331965264704,
+        402888569901524,
         402687993764864,
         372610445960083, 
         313555098280384, 
@@ -1611,6 +1612,19 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_Use_the_uploaded_+%281%29.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_Use_the_uploaded_+%281%29.webp",
       "audio_path": ""
+    },
+    "402888569901524": {
+      "display_name": "Jump Into Crowd",
+      "template_id": 402888569901524,
+      "workflow_tag": "",
+      "display_prompt": "Dive into the crowd",
+      "effect_type": "1",
+      "duration": 8,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F5a77873a-e2c9-40e4-a6b4-a859e1481713.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F34e71020-d358-41bc-899d-8a81098391f7.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F4fcdc44e-ad6d-4da7-b489-f76889e1268e.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Fb2d84901-9d7e-4418-8ea4-26bc0dc60123.mp3"
     }
   }
 }
