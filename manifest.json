@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "updated_at": "2026-04-25",
   "categories": [
     {
@@ -223,7 +223,14 @@
         365170951985920,
         356317200152960,
         311521768592256,
-        367530056173698
+        367530056173698,
+        366546194798967,
+        367007156382682,
+        365519260162816,
+        366540804957162,
+        367400055937163,
+        360405191066176,
+        311521879229312
       ]
     },
     
@@ -2573,6 +2580,97 @@
       "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F0372333d-ed40-4a26-a9da-5db0edbc511b.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F0372333d-ed40-4a26-a9da-5db0edbc511b.webp",
       "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F62d426dd-78aa-4fd0-806a-4d1ae60c92ec.mp3"
+    },
+    "366546194798967": {
+      "display_name": "Halloween Hero",
+      "template_id": 366546194798967,
+      "workflow_tag": "",
+      "display_prompt": "Become an Anime Halloween Hero",
+      "effect_type": "1",
+      "duration": 8,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2Fa7d72385-48cb-4e80-8e7f-dd44351b2899.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fa9ebf111-228a-4344-87d6-07d2f2e685d7.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fa9ebf111-228a-4344-87d6-07d2f2e685d7.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Fdb42a3a7-71ae-4d0d-b17b-2dfe5b0f3729.mp3"
+    },
+    "367007156382682": {
+      "display_name": "Pumpkin Magic",
+      "template_id": 367007156382682,
+      "workflow_tag": "",
+      "display_prompt": "Take off to the moon on a pumpkin.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2Ff8c43b28-aa02-4368-9f76-85cba7c907fe.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F11d66f6a-1f6e-41a4-a786-9a720e5faf52.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F11d66f6a-1f6e-41a4-a786-9a720e5faf52.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F3a93bae8-fc47-4bd5-957f-ef1d72f8a4ec.mp3"
+    },
+    "365519260162816": {
+      "display_name": "Skeletal Bae",
+      "template_id": 365519260162816,
+      "workflow_tag": "deadlover_251016",
+      "display_prompt": "The trendiest couple is back from the dead.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_deadlover_251017.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_deadlover_251017.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_deadlover_251017.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_deadlover_251017.mp3"
+    },
+    "366540804957162": {
+      "display_name": "Halloween Angels",
+      "template_id": 366540804957162,
+      "workflow_tag": "",
+      "display_prompt": "Me and Angels",
+      "effect_type": "1",
+      "duration": 8,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F4391640b-f6a9-42bb-8bef-acd77c84535c.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F1e58f51d-41c0-4552-8b1b-5426ec887e97.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F1e58f51d-41c0-4552-8b1b-5426ec887e97.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Fe5fff5f6-d2d3-4cb4-b0ae-b29968230c39.mp3"
+    },
+    "367400055937163": {
+      "display_name": "Become the Reaper!",
+      "template_id": 367400055937163,
+      "workflow_tag": "",
+      "display_prompt": "Embrace your dark side",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2Fff13fe54-778e-42f2-b1d4-2b521e87a4dc.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F9da2b769-933a-494b-ace5-354c0e6c3706.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F9da2b769-933a-494b-ace5-354c0e6c3706.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Fa20768c0-e825-4ab1-909a-9cb827b708e9.mp3"
+    },
+    "360405191066176": {
+      "display_name": "Haunting Doll",
+      "template_id": 360405191066176,
+      "workflow_tag": "timburden_250917",
+      "display_prompt": "Being human is tiring. Let me become a ghost and rest for a bit!",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_tim_250917.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_tim_250917.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_tim_250917.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_tim_250917.mp3"
+    },
+    "311521879229312": {
+      "display_name": "Where is Santa?",
+      "template_id": 311521879229312,
+      "workflow_tag": "where_is_santa_241213",
+      "display_prompt": "Discovering Santa Claus in the parallel world!",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_whereissanta_0115.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_whereissanta_0115.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_whereissanta_0115.webp",
+      "audio_path": ""
     }
   }
 }
