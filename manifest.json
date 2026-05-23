@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "updated_at": "2026-04-25",
   "categories": [
     {
@@ -170,7 +170,11 @@
       "title": "Dream Morphs",
       "effects": [
         378591086719424,
-        374871723655616
+        374871723655616,
+        375277260704704,
+        374166107631104,
+        340541567573824,
+        344263482059200
       ]
       
     },
@@ -2039,6 +2043,58 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_grinch_251208.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_grinch_251208.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_grinch_251208_2.mp3"
+    },
+    "375277260704704": {
+      "display_name": "Xmas Front Page Karma",
+      "template_id": 375277260704704,
+      "workflow_tag": "meta_nanopro_transition_v5_251204",
+      "display_prompt": "Break the front page and detonate the Xmas headline!.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_xmasnews_251210.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_xmasnews_251210.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_xmasnews_251210.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_xmasnews_251210.mp3"
+    },
+    "374166107631104": {
+      "display_name": "Tree doll",
+      "template_id": 374166107631104,
+      "workflow_tag": "treedoll_251204",
+      "display_prompt": "In a flash of light, you appear atop the tree, glowing softly.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_treedoll_251204.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_treedoll_251204.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_treedoll_251204.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_treedoll1_251204.mp3"
+    },
+    "340541567573824": {
+      "display_name": "Fin-tastic Mermaid",
+      "template_id": 340541567573824,
+      "workflow_tag": "mermaid_250528",
+      "display_prompt": "Dive in! Get your fins now",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_mermaid_250528_2.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_mermaid_250528.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_mermaid_250528.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_mermaid_250528.MP3"
+    },
+    "344263482059200": {
+      "display_name": "Past Life Job",
+      "template_id": 344263482059200,
+      "workflow_tag": "jobs_250618",
+      "display_prompt": "Spin the career wheel and find out who you were before!",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_job_250624.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_job_250624.mov",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_job_250624.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_job_250624.MP3"
     }
   }
 }
