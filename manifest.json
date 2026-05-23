@@ -174,7 +174,10 @@
         375277260704704,
         374166107631104,
         340541567573824,
-        344263482059200
+        344263482059200,
+        339848996187712,
+        334237192507776,
+        313358700761536
       ]
       
     },
@@ -2095,6 +2098,45 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_job_250624.mov",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_job_250624.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_job_250624.MP3"
+    },
+    "339848996187712": {
+      "display_name": "Eye Zoom",
+      "template_id": 339848996187712,
+      "workflow_tag": "eyezoomin_250524",
+      "display_prompt": "Zoom into your pupil — and the whole world falls with you",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_eye_250524.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_eye_250524.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_eye_250524.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_eye_250524.MP3"
+    },
+    "334237192507776": {
+      "display_name": "Clay Fool",
+      "template_id": 334237192507776,
+      "workflow_tag": "clay_250422",
+      "display_prompt": "Turn into a wobbly wonder",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_clay_250423.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_clay_250423.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_clay_250423.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F334237192507776.MP3"
+    },
+    "313358700761536": {
+      "display_name": "Anything, Robot",
+      "template_id": 313358700761536,
+      "workflow_tag": "robot_250207",
+      "display_prompt": "Transform into a robot",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_robot_250207.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_robot_250207.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_robot_250207.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F313358700761536.MP3"
     }
   }
 }
