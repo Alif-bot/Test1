@@ -216,7 +216,9 @@
         365522752365312,
         366544675201928,
         367095420561734,
-        366543030823885
+        366543030823885,
+        365519364076288,
+        367079896187785
       ]
     },
     
@@ -2475,6 +2477,32 @@
       "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F2f4f2fd6-8829-4d58-9b78-17a6e17e1f08.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F2f4f2fd6-8829-4d58-9b78-17a6e17e1f08.webp",
       "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F3f4fc132-db1b-4dd9-bf37-e6a4542259d3.mp3"
+    },
+    "365519364076288": {
+      "display_name": "Halloween Doll",
+      "template_id": 365519364076288,
+      "workflow_tag": "halloweendoll_251016",
+      "display_prompt": "The ropes are tightening. Your voodoo transformation starts now.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-doll-251107.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-doll-251107.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-doll-251107.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_doll_251016.mp3"
+    },
+    "367079896187785": {
+      "display_name": "Halloween Transformation",
+      "template_id": 367079896187785,
+      "workflow_tag": "",
+      "display_prompt": "Become a monster",
+      "effect_type": "1",
+      "duration": 8,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F63d47db0-cf8b-45b5-9db2-f95e69586f1c.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fddda3ddd-95f1-4a0d-9667-4a2069b0c4e6.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fddda3ddd-95f1-4a0d-9667-4a2069b0c4e6.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Fd499230c-db78-4d66-b2b6-7c7c1707e356.mp3"
     }
   }
 }
