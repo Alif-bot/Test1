@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "updated_at": "2026-04-25",
   "categories": [
     {
@@ -187,9 +187,18 @@
     },
     
     {
-      "id": "from",
-      "title": "From Creator",
-      "effects": [373148934592000]
+      "id": "creator",
+      "title": "Creator Picks",
+      "effects": [
+        373148934592000,
+        370642113064576,
+        361993440092761,
+        365301137193286,
+        361988459862630,
+        362014562540125,
+        361469992918080,
+        366978801410430
+      ]
     },
     
     {
@@ -2193,6 +2202,97 @@
       "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F66dd3d05-070e-4864-865c-fd368730f00d.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F66dd3d05-070e-4864-865c-fd368730f00d.webp",
       "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Fc9e01b31-7049-45d2-a46d-80a94a46d2a0.mp3"
+    },
+    "370642113064576": {
+      "display_name": "Pocket Puppy",
+      "template_id": 370642113064576,
+      "workflow_tag": "pocketpuppy_251114",
+      "display_prompt": "Upload your photo and unlock your destined tiny pup.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_pocketpuppy_251114.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_pocketpuppy_251114.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_pocketpuppy_251114.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_pocketpuppy_251114.mp3"
+    },
+    "361993440092761": {
+      "display_name": "I Want to Be a Beer",
+      "template_id": 361993440092761,
+      "workflow_tag": "",
+      "display_prompt": "Weary of being human? It's time to transform into a beer!",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2Faf2164c0-6c44-4cbe-adc1-f8ed17a96790.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F2840013d-0b2e-4c59-9d11-533ea1bf1dea.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F2840013d-0b2e-4c59-9d11-533ea1bf1dea.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Fb3f00324-0e80-4528-b47f-edb60637a24d.mp3"
+    },
+    "365301137193286": {
+      "display_name": "Easter Serenity",
+      "template_id": 365301137193286,
+      "workflow_tag": "",
+      "display_prompt": "From spring’s heart — hope is reborn.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2Fa7fb36ea-9af7-46a8-aea9-fcac272f4820.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F12ceeddc-6f7e-437d-81ff-dabf02709d5e.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F12ceeddc-6f7e-437d-81ff-dabf02709d5e.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F23fa2e0a-00bf-4783-b712-80d2a97df05a.mp3"
+    },
+    "361988459862630": {
+      "display_name": "PARTY HARD",
+      "template_id": 361988459862630,
+      "workflow_tag": "",
+      "display_prompt": "Transform yourself and your friends into party animals, let the wild celebration commence!",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2Fff0111bb-9bcc-4d95-bbde-d37b5bc0c580.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F1e1f48a0-cc34-461b-9bb7-40fd37fc5160.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F1e1f48a0-cc34-461b-9bb7-40fd37fc5160.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F1fad0ff8-6206-4be6-b136-e12e4d60d77e.mp3"
+    },
+    "362014562540125": {
+      "display_name": "Instant Old",
+      "template_id": 362014562540125,
+      "workflow_tag": "",
+      "display_prompt": "Transform your face into a realistic elderly version of yourself in a sudden, shocking jump.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F1dd83584-df63-4773-bf46-49996df922dd.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F6974a1aa-5ec9-4383-93fe-9f0a2742a94a.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F6974a1aa-5ec9-4383-93fe-9f0a2742a94a.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Ffbe8b47b-86c8-4150-a7b5-fd8a0d0a05a8.mp3"
+    },
+    "361469992918080": {
+      "display_name": "My MV Highlight Reel",
+      "template_id": 361469992918080,
+      "workflow_tag": "",
+      "display_prompt": "Say goodbye to being a nobody, you are the star of your own MV.",
+      "effect_type": "1",
+      "duration": 9,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-mv-251107.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-mv-251107.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-mv-251107.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp-mv-251107.MP3"
+    },
+    "366978801410430": {
+      "display_name": "It's Pizza Time!",
+      "template_id": 366978801410430,
+      "workflow_tag": "",
+      "display_prompt": "Pizza Hut unveils the new Fall Collection",
+      "effect_type": "1",
+      "duration": 9,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2Fe2a22e2d-616c-4d0e-bf6a-102a54ffe295.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Ffd55514e-a336-4cda-ad82-2bf2455b4d63.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Ffd55514e-a336-4cda-ad82-2bf2455b4d63.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Fc54b0578-1c35-4add-ba48-ac741bb7a780.MP3"
     }
   }
 }
