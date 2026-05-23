@@ -157,7 +157,12 @@
         336856634055424,
         302325299711040,
         332074055488256,
-        302325299721280
+        302325299721280,
+        302325299692608,
+        308552687706496,
+        321956810449792,
+        302325299702848,
+        302325299661888
       ]
     },
     
@@ -1934,6 +1939,71 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_aliveart.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_aliveart.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F302325299721280.MP3"
+    },
+    "302325299692608": {
+      "display_name": "Squish It",
+      "template_id": 302325299692608,
+      "workflow_tag": "squish_it_241028",
+      "display_prompt": "A pair of hands appears and squishes the [OBJECT] as if it's slime",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_squishit_0115.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_squishit.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_squishit.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fsquish_250715.MP3"
+    },
+    "308552687706496": {
+      "display_name": "Long Hair Magic",
+      "template_id": 308552687706496,
+      "workflow_tag": "hair_magic_241128",
+      "display_prompt": "Grow lots of hair. Never be bald.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_hairgrowth_0115.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_hairgrowth.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_hairgrowth.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Flonghair_250715.MP3"
+    },
+    "321956810449792": {
+      "display_name": "Oscar Winner",
+      "template_id": 321956810449792,
+      "workflow_tag": "oscar_250218",
+      "display_prompt": "Pick up the Oscar trophy and cheer for yourself",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-winner-251109-%E5%B0%81%E9%9D%A2.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-winner-251109.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-winner-251109.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F321956810449792.MP3"
+    },
+     "302325299702848": {
+      "display_name": "Lego Blast",
+      "template_id": 302325299702848,
+      "workflow_tag": "lego_blast_241028",
+      "display_prompt": "The [OBJECT] shatters into pieces of Legos",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_legoblast_0115.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_legoblast.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_legoblast.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Flego_250715_2.MP3"
+    },
+    "302325299661888": {
+      "display_name": "Wizard Hat",
+      "template_id": 302325299661888,
+      "workflow_tag": "animal_wizard_241028",
+      "display_prompt": "The [SUBJECT] wears a magic wizard hat",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_wizardhat_0115.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_wizardhat.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_wizardhat.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwizardhat_250715.MP3"
     }
   }
 }
