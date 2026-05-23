@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "updated_at": "2026-04-25",
   "categories": [
     {
@@ -164,6 +164,15 @@
         302325299702848,
         302325299661888
       ]
+    },
+    {
+      "id": "morphs",
+      "title": "Dream Morphs",
+      "effects": [
+        378591086719424,
+        374871723655616
+      ]
+      
     },
     
     {
@@ -2004,6 +2013,32 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_wizardhat.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_wizardhat.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwizardhat_250715.MP3"
+    },
+    "378591086719424": {
+      "display_name": "Primal Jungle Awakening",
+      "template_id": 378591086719424,
+      "workflow_tag": "meta_nanopro_transition_v5_251204",
+      "display_prompt": "Hear the forest's breath? Unlock your primal tribal totem.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_avatar_251229.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_avatar_251229.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_avatar_251229.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_avatar_251229_2.mp3"
+    },
+    "374871723655616": {
+      "display_name": "Grinch's Xmas Hijack",
+      "template_id": 374871723655616,
+      "workflow_tag": "meta_nanopro_transition_v5_251204",
+      "display_prompt": "Forget Santa. Grinch drops in with champagne to your ultimate luxury party.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_grinch_251208.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_grinch_251208.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_grinch_251208.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_grinch_251208_2.mp3"
     }
   }
 }
