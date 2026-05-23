@@ -221,7 +221,9 @@
         367079896187785,
         359516293494080,
         365170951985920,
-        356317200152960
+        356317200152960,
+        311521768592256,
+        367530056173698
       ]
     },
     
@@ -2545,6 +2547,32 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_skull_250825.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_skull_250825.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_skull_250825_3.mp3"
+    },
+    "311521768592256": {
+      "display_name": "Santa's Secret Gifts",
+      "template_id": 311521768592256,
+      "workflow_tag": "santa_gift_241213",
+      "display_prompt": "I want a：",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_santa%27sgift_0115.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_santa%27sgift_0115.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_santa%27sgift_0115.webp",
+      "audio_path": ""
+    },
+    "367530056173698": {
+      "display_name": "Tag, You're It",
+      "template_id": 367530056173698,
+      "workflow_tag": "",
+      "display_prompt": "Tag, You're It, can you win against a werewolf!",
+      "effect_type": "1",
+      "duration": 6,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F66ed6a06-f2af-47a4-8498-044b04c1b0dc.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F0372333d-ed40-4a26-a9da-5db0edbc511b.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F0372333d-ed40-4a26-a9da-5db0edbc511b.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F62d426dd-78aa-4fd0-806a-4d1ae60c92ec.mp3"
     }
   }
 }
