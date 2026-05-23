@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "updated_at": "2026-04-25",
   "categories": [
     {
@@ -218,7 +218,10 @@
         367095420561734,
         366543030823885,
         365519364076288,
-        367079896187785
+        367079896187785,
+        359516293494080,
+        365170951985920,
+        356317200152960
       ]
     },
     
@@ -2503,6 +2506,45 @@
       "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fddda3ddd-95f1-4a0d-9667-4a2069b0c4e6.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fddda3ddd-95f1-4a0d-9667-4a2069b0c4e6.webp",
       "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Fd499230c-db78-4d66-b2b6-7c7c1707e356.mp3"
+    },
+    "359516293494080": {
+      "display_name": "Vampire Royalty",
+      "template_id": 359516293494080,
+      "workflow_tag": "vampire_250912",
+      "display_prompt": "Lift the eternal veil, reveal your crimson elegance.",
+      "effect_type": "1",
+      "duration": 6,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_vampire_250911.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_vampire_250911.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_vampire_250911.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_vampire_250911.mp3"
+    },
+    "365170951985920": {
+      "display_name": "Escape Nightmare",
+      "template_id": 365170951985920,
+      "workflow_tag": "escapefromnightmare_251016",
+      "display_prompt": "Is this a dream or a reality? Can I escape from here",
+      "effect_type": "1",
+      "duration": 8,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_escapefromnightmare1_251016.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_escapefromnightmare_251016%2Fweb_escapefromnightmarexiugai_251016.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_escapefromnightmarexiugai_251016.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_escapefromnightmare_251016.MP3"
+    },
+    "356317200152960": {
+      "display_name": "Skull Multiverse",
+      "template_id": 356317200152960,
+      "workflow_tag": "skull_250825",
+      "display_prompt": "Which skull is your true face?",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_skull_250825.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_skull_250825.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_skull_250825.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_skull_250825_3.mp3"
     }
   }
 }
