@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "updated_at": "2026-04-25",
   "categories": [
     {
@@ -177,7 +177,11 @@
         344263482059200,
         339848996187712,
         334237192507776,
-        313358700761536
+        313358700761536,
+        325367418993728,
+        385888715025206,
+        325728504863808,
+        382943126531866
       ]
       
     },
@@ -2137,6 +2141,58 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_robot_250207.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_robot_250207.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F313358700761536.MP3"
+    },
+    "325367418993728": {
+      "display_name": "Sakura Flood",
+      "template_id": 325367418993728,
+      "workflow_tag": "sakura_250303",
+      "display_prompt": "Turn the world into a Sakura Utopia",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_sakura_250305.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_sakura_250305.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_sakura_250305.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F325367418993728.MP3"
+    },
+    "385888715025206": {
+      "display_name": "Carnival Grace",
+      "template_id": 385888715025206,
+      "workflow_tag": "",
+      "display_prompt": "A graceful carnival transformation.",
+      "effect_type": "1",
+      "duration": 6,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F5bcff648-3750-437a-a582-b53ce3a4a6c8.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fd55942ec-af25-49d9-b033-45f409e340cf.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F900ee16a-50d4-4caa-810f-7631fde2598e.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Ff918e62d-08c6-42a0-92ac-101fef9c26bc.mp3"
+    },
+    "325728504863808": {
+      "display_name": "Carnival Queen",
+      "template_id": 325728504863808,
+      "workflow_tag": "",
+      "display_prompt": "Get the most eye-catching carnival costume in one second!",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_carnival_250308.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_carnival_250308.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_carnival_250308.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F325728504863808.MP3"
+    },
+    "382943126531866": {
+      "display_name": "Cute but Dangerous",
+      "template_id": 382943126531866,
+      "workflow_tag": "",
+      "display_prompt": "Download to transform into Joker's favorite gal.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F486bc2dd-bd99-4247-b272-c700fd356315.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F66dd3d05-070e-4864-865c-fd368730f00d.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F66dd3d05-070e-4864-865c-fd368730f00d.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Fc9e01b31-7049-45d2-a46d-80a94a46d2a0.mp3"
     }
   }
 }
