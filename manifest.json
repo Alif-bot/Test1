@@ -151,7 +151,8 @@
         338445884778240,
         350496364287680,
         342847495240768,
-        344080941597120
+        344080941597120,
+        339176058171136
       ]
     },
     
@@ -1863,6 +1864,19 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_part_250618.mov",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_part_250618.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_part_250618.MP3"
+    },
+    "339176058171136": {
+      "display_name": "Meme Smash x3",
+      "template_id": 339176058171136,
+      "workflow_tag": "3surprises_250520",
+      "display_prompt": "One slap, three rage faces. Meme mode: activated!",
+      "effect_type": "1",
+      "duration": 8,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_punch_250527.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_punch_250527.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_punch_250527.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_punch_250527.MP3"
     }
   }
 }
