@@ -154,7 +154,8 @@
         344080941597120,
         339176058171136,
         335586897736448,
-        336856634055424
+        336856634055424,
+        302325299711040
       ]
     },
     
@@ -1905,6 +1906,19 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_belly_250508.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_belly_250508.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_belly_250508.MP3"
+    },
+    "302325299711040": {
+      "display_name": "Leggy Run",
+      "template_id": 302325299711040,
+      "workflow_tag": "leggy_run_241028",
+      "display_prompt": "The [OBJECT] grows legs and runs away",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_leggyrun_0115.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_leggyrun.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_leggyrun.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fleggyrun_250715.MP3"
     }
   }
 }
