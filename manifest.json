@@ -149,7 +149,9 @@
         351687353790080,
         350827688007296,
         338445884778240,
-        350496364287680
+        350496364287680,
+        342847495240768,
+        344080941597120
       ]
     },
     
@@ -1835,6 +1837,32 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_muscleplus_250723.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_muscleplus_250723.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_muscleplus_250723_2.mp3"
+    },
+    "342847495240768": {
+      "display_name": "Who’s Arrested?",
+      "template_id": 342847495240768,
+      "workflow_tag": "arrest_250610",
+      "display_prompt": "When the AI cop shows up, someone’s in trouble!",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_arrest_250610.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_arrest_250610.mov",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_arrest_250610.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_arrest_250610.MP3"
+    },
+    "344080941597120": {
+      "display_name": "Dust Me Away",
+      "template_id": 344080941597120,
+      "workflow_tag": "part_250617",
+      "display_prompt": "Catch me fading like a deleted file.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_part_250618.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_part_250618.mov",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_part_250618.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_part_250618.MP3"
     }
   }
 }
