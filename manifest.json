@@ -148,7 +148,8 @@
         357903645598080,
         351687353790080,
         350827688007296,
-        338445884778240
+        338445884778240,
+        350496364287680
       ]
     },
     
@@ -1821,6 +1822,19 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwebcreepy_smile_250516.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwebcreepy_smile_250516.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fappcreepy_smile_250516.mp3"
+    },
+    "350496364287680": {
+      "display_name": "Muscle Max",
+      "template_id": 350496364287680,
+      "workflow_tag": "muscleplus_250723",
+      "display_prompt": "Ready to be the king of the gym?",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_muscleplus_250723.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_muscleplus_250723.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_muscleplus_250723.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_muscleplus_250723_2.mp3"
     }
   }
 }
