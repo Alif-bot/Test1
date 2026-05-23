@@ -152,7 +152,9 @@
         350496364287680,
         342847495240768,
         344080941597120,
-        339176058171136
+        339176058171136,
+        335586897736448,
+        336856634055424
       ]
     },
     
@@ -1877,6 +1879,32 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_punch_250527.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_punch_250527.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_punch_250527.MP3"
+    },
+    "335586897736448": {
+      "display_name": "Call Me Tubeman",
+      "template_id": 335586897736448,
+      "workflow_tag": "tube_man_250430",
+      "display_prompt": "Let’s wiggle—who needs dignity anyway?",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_tubeman_250611.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_tubeman_250611.mov",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_tubeman_250611.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_tubeman_250611.MP3"
+    },
+    "336856634055424": {
+      "display_name": "Balloon Belly",
+      "template_id": 336856634055424,
+      "workflow_tag": "belly_250507",
+      "display_prompt": "One puff and—boom! You’re the cutest balloon in town.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_belly_250508.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_belly_250508.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_belly_250508.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_belly_250508.MP3"
     }
   }
 }
