@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "updated_at": "2026-04-25",
   "categories": [
     {
@@ -204,7 +204,13 @@
     {
       "id": "festival",
       "title": "Festival Vibe",
-      "effects": [372610445960083]
+      "effects": [
+        362704938833536,
+        343410955453504,
+        313359048325568,
+        321958080134016,
+        302325299672128
+      ]
     },
     
     {
@@ -2293,6 +2299,84 @@
       "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Ffd55514e-a336-4cda-ad82-2bf2455b4d63.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Ffd55514e-a336-4cda-ad82-2bf2455b4d63.webp",
       "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Fc54b0578-1c35-4add-ba48-ac741bb7a780.MP3"
+    },
+    "362704938833536": {
+      "display_name": "Ghostface Terror",
+      "template_id": 362704938833536,
+      "workflow_tag": "scream_250930",
+      "display_prompt": "Scream, right now!",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_scream_250930.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_scream_250930.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_scream_250930.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_scream_250930.mp3"
+    },
+    "343410955453504": {
+      "display_name": "Dad vs. Me",
+      "template_id": 343410955453504,
+      "workflow_tag": "fight_250106",
+      "display_prompt": "Time for a father-son face-off...",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fightingfather_0613.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fightingfather_0613.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fightingfather_0613.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_fightingfather_0613.MP3"
+    },
+    "313359048325568": {
+      "display_name": "Snake Snuggle",
+      "template_id": 313359048325568,
+      "workflow_tag": "chinesesnake_250123",
+      "display_prompt": "Anyone with the cute little snake will have good luck in the Year of the Snake!",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_chinesesnake_250127.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_chinesesnake_250127.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_chinesesnake_250127.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F313359048325568.MP3"
+    },
+    "313359048325568": {
+      "display_name": "Snake Snuggle",
+      "template_id": 313359048325568,
+      "workflow_tag": "chinesesnake_250123",
+      "display_prompt": "Anyone with the cute little snake will have good luck in the Year of the Snake!",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_chinesesnake_250127.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_chinesesnake_250127.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_chinesesnake_250127.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F313359048325568.MP3"
+    },
+    "321958080134016": {
+      "display_name": "Pomba Gira Slay",
+      "template_id": 321958080134016,
+      "workflow_tag": "pombagira_250212",
+      "display_prompt": "Unleash desire, embrace power! You are  Pomba Gira!",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_pombagira_250213.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_pombagira_250213.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_pombagira_250213.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F321958080134016.MP3"
+    },
+    "302325299672128": {
+      "display_name": "Zombie Hand",
+      "template_id": 302325299672128,
+      "workflow_tag": "zombie_hand_241028",
+      "display_prompt": "A zombie hand appears in the [SCENE]",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_zombiehand_0115.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_zombiehand.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_zombiehand.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_zombiehand_0815.MP3"
     }
   }
 }
