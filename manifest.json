@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "updated_at": "2026-04-25",
   "categories": [
     {
@@ -209,7 +209,14 @@
         343410955453504,
         313359048325568,
         321958080134016,
-        302325299672128
+        302325299672128,
+        302325299651648,
+        302325299682368,
+        317013509917440,
+        365522752365312,
+        366544675201928,
+        367095420561734,
+        366543030823885
       ]
     },
     
@@ -2377,6 +2384,97 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_zombiehand.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_zombiehand.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_zombiehand_0815.MP3"
+    },
+    "302325299651648": {
+      "display_name": "Zombie Mode",
+      "template_id": 302325299651648,
+      "workflow_tag": "zombie_mode_241028",
+      "display_prompt": "The [SUBJECT] suddenly transforms into a zombie.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_zombiemode_0115.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_zombiemode.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_zombiemode.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_zombiemode_0815.MP3"
+    },
+    "302325299682368": {
+      "display_name": "Monster Invades",
+      "template_id": 302325299682368,
+      "workflow_tag": "monster_invasion_241028",
+      "display_prompt": "A monster suddenly appears in the [SCENE] and starts walking around",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_monsterinvade_0115.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_monsterinvade2.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_monsterinvade2.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_monsterinvade_0815.MP3"
+    },
+    "317013509917440": {
+      "display_name": "Chinese New Year Dress",
+      "template_id": 317013509917440,
+      "workflow_tag": "chinesedress_250120",
+      "display_prompt": "Have good luck in 2025",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_chinesedress_250123.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_chinesedress_250123.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_chinesedress_250123.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F317013509917440.MP3"
+    },
+    "365522752365312": {
+      "display_name": "Summoning succubus",
+      "template_id": 365522752365312,
+      "workflow_tag": "summoningsuccubus_251017",
+      "display_prompt": "Calling forth a demon of desire... Her sweetness hides a creeping sense of danger.",
+      "effect_type": "1",
+      "duration": 8,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_summoningsuccubus_251017.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_summoningsuccubusxiugai_251017.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_summoningsuccubusxiugai_251017.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_summoningsuccubus_251017.MP3"
+    },
+    "366544675201928": {
+      "display_name": "Halloween Mask",
+      "template_id": 366544675201928,
+      "workflow_tag": "",
+      "display_prompt": "Adorn yourself with your Halloween mask.",
+      "effect_type": "1",
+      "duration": 8,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2Fcc1f8d49-c119-4e24-9cb5-7915a93290e2.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F56e3c6c8-822e-4cb5-b2fc-3693569bfa8c.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F56e3c6c8-822e-4cb5-b2fc-3693569bfa8c.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F2bea1f47-fe9a-4066-b07e-049829ea7af7.mp3"
+    },
+    "367095420561734": {
+      "display_name": "Halloween Pumpkin",
+      "template_id": 367095420561734,
+      "workflow_tag": "",
+      "display_prompt": "Rise among pumpkins.",
+      "effect_type": "1",
+      "duration": 8,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2Fccac6dfe-548e-40f5-aa0d-02b1ed2ff027.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fd2410570-98a4-4e2f-8ed8-a975407942a7.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fd2410570-98a4-4e2f-8ed8-a975407942a7.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F44532bc5-4817-4f6f-a594-466300972877.mp3"
+    },
+    "366543030823885": {
+      "display_name": "Pumpkin Costume",
+      "template_id": 366543030823885,
+      "workflow_tag": "",
+      "display_prompt": "Change into a pumpkin Halloween costume.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2Fa577664f-d84f-4dcb-973c-4c7ed5d98f56.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F2f4f2fd6-8829-4d58-9b78-17a6e17e1f08.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F2f4f2fd6-8829-4d58-9b78-17a6e17e1f08.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F3f4fc132-db1b-4dd9-bf37-e6a4542259d3.mp3"
     }
   }
 }
