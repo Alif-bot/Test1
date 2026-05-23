@@ -141,7 +141,14 @@
         338083197718400,
         350827863568000,
         367503422735872,
-        366945220815680
+        366945220815680,
+        357904025203072,
+        357905373827456,
+        357903949828480,
+        357903645598080,
+        351687353790080,
+        350827688007296,
+        338445884778240
       ]
     },
     
@@ -1723,6 +1730,97 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_babywave1_251024.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_babywave1_251024.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_babywave1_251024.MP3"
+    },
+    "357904025203072": {
+      "display_name": "Octopus Invasion",
+      "template_id": 357904025203072,
+      "workflow_tag": "octopus_250903",
+      "display_prompt": "Don't struggle, your octopus DNA is spreading",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_anemone_250903.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_anemone_250903.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_anemone_250903.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Foctopus_250903.mp3"
+    },
+    "357905373827456": {
+      "display_name": "Lionfish Venomous",
+      "template_id": 357905373827456,
+      "workflow_tag": "lionfish_250903",
+      "display_prompt": "",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_lionfish_250903.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_lionfish_250903.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_lionfish_250903.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Flionfish_250903.mp3"
+    },
+    "357903949828480": {
+      "display_name": "Coral Dreamscape",
+      "template_id": 357903949828480,
+      "workflow_tag": "coral_250903",
+      "display_prompt": "",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_coral_250903.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_coral_250903.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_coral_250903.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_coral_250903.mp3"
+    },
+    "357903645598080": {
+      "display_name": "Shark Shadows",
+      "template_id": 357903645598080,
+      "workflow_tag": "shark_250903",
+      "display_prompt": "",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_shark_250903.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_shark_250903.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_shark_250903.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_shark_250903.mp3"
+    },
+    "351687353790080": {
+      "display_name": "Ruin Your Vow",
+      "template_id": 351687353790080,
+      "workflow_tag": "bride_250730",
+      "display_prompt": "Not your happy ending. Just mine.",
+      "effect_type": "1",
+      "duration": 7,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_bride_250801.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_bride_250801.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_bride_250801.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_bride_250801_3.MP3"
+    },
+    "350827688007296": {
+      "display_name": "Beam Me Up",
+      "template_id": 350827688007296,
+      "workflow_tag": "bluelight_250725",
+      "display_prompt": "Ready to energize, Scotty!",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_blue_250725.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_blue_250725.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_blue_250725.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_blue_250725.mp3"
+    },
+    "338445884778240": {
+      "display_name": "Devil Smile",
+      "template_id": 338445884778240,
+      "workflow_tag": "creepy_smile_250516",
+      "display_prompt": "Not a smile. A warning.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwebcreepy_smile_250516.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwebcreepy_smile_250516.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwebcreepy_smile_250516.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fappcreepy_smile_250516.mp3"
     }
   }
 }
