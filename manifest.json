@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "updated_at": "2026-04-25",
   "featured_effects": [
      321958080134016,
@@ -41,6 +41,17 @@
       "id": "new",
       "title": "New Arrivals",
       "effects": [366799217822656, 381059488039360, 380026708122688, 381858675348761]
+    },
+    {
+      "id": "fifa",
+      "title": "Fifa Football Fever",
+      "effects": [
+        405658369331648,
+        404955806201792,
+        404820147974080,
+        405175211454656,
+        402347545695296
+      ]
     },
      {
       "id": "romance",
@@ -2688,6 +2699,71 @@
       "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_whereissanta_0115.png",
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_whereissanta_0115.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_whereissanta_0115.webp",
+      "audio_path": ""
+    },
+    "405658369331648": {
+      "display_name": "Pitch Legend",
+      "template_id": 405658369331648,
+      "workflow_tag": "meta_it2v_v5_noenhance_251204",
+      "display_prompt": "Run, celebrate, and create a legendary football moment.",
+      "effect_type": "1",
+      "duration": 10,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fpitchlegend_260531.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fpitchlegend_260531.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fpitchlegend_260531.webp",
+      "audio_path": ""
+    },
+    "404955806201792": {
+      "display_name": "Sharp Post-Match Comments",
+      "template_id": 404955806201792,
+      "workflow_tag": "meta_gpt_it2v_v6_enhanced_260429",
+      "display_prompt": "If you were handed the microphone after the match, what would you say?",
+      "effect_type": "1",
+      "duration": 12,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fsaihouruiping.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fsaihouruiping.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fsaihouruiping.webp",
+      "audio_path": ""
+    },
+    "404820147974080": {
+      "display_name": "Top of the World",
+      "template_id": 404820147974080,
+      "workflow_tag": "meta_nanopro_it2v_v6_enhanced_260508",
+      "display_prompt": "Lift the trophy and become the hero of football's biggest night.",
+      "effect_type": "2",
+      "duration": 8,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Ftopoftheworld_260527.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Ftopoftheworld_260527.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Ftopoftheworld_260527.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Ftopoftheworld_260527.mp3"
+    },
+    "405175211454656": {
+      "display_name": "Superstar Lobby",
+      "template_id": 405175211454656,
+      "workflow_tag": "meta_gpt_it2v_v6_enhanced_260429",
+      "display_prompt": "Welcome to your championship season.",
+      "effect_type": "1",
+      "duration": 6,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2F5%E6%9C%8828%E6%97%A5%281%29.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F5%E6%9C%8828%E6%97%A5%281%29.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F5%E6%9C%8828%E6%97%A5%281%29.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F5%E6%9C%8828%E6%97%A5%281%29.mp3"
+    },
+    "402347545695296": {
+      "display_name": "K-Baseball Sprint",
+      "template_id": 402347545695296,
+      "workflow_tag": "meta_gpt_it2v_v6_enhanced_260429",
+      "display_prompt": "Catch the beat. Join the cheer. The world is watching.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fbaseball-fixed0519.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fbaseball-fixed0519.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fbaseball-fixed0519.webp",
       "audio_path": ""
     }
   }
