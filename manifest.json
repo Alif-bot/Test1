@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "updated_at": "2026-04-25",
   "featured_effects": [
      321958080134016,
@@ -40,7 +40,14 @@
     {
       "id": "new",
       "title": "New Arrivals",
-      "effects": [366799217822656, 381059488039360, 380026708122688, 381858675348761]
+      "effects": [
+        400897251899510,
+        395286837630912,
+        366799217822656, 
+        381059488039360, 
+        380026708122688, 
+        381858675348761
+      ]
     },
     {
       "id": "fifa",
@@ -2764,6 +2771,32 @@
       "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fbaseball-fixed0519.jpg",
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fbaseball-fixed0519.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fbaseball-fixed0519.webp",
+      "audio_path": ""
+    },
+    "400897251899510": {
+      "display_name": "Mother’s Day Hug",
+      "template_id": 400897251899510,
+      "workflow_tag": "",
+      "display_prompt": "Mother and child surrounded by love.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F1bfa35f5-5348-4242-8503-29cf335b0394.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F73c4f181-b893-4c1d-9dae-26194879a8a0.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F41b4578e-022a-4dba-b637-af5a3ff23731.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F078ac073-260e-40f4-8cbf-2272526d833b.mp3"
+    },
+    "395286837630912": {
+      "display_name": "Divine Mode Activated",
+      "template_id": 395286837630912,
+      "workflow_tag": "meta_it2v_v5_noenhance_251204",
+      "display_prompt": "Walk through chaos, ascend in silence, and end it in one move.",
+      "effect_type": "1",
+      "duration": 10,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_%E4%B8%BB%E4%BD%93%E6%8A%AC%E5%A4%B4%E7%9C%8B%E5%90%91%E4%B9%8C%E4%BA%91%E5%AF%86%E5%B8%83%EF%BC%8C%E8%84%9A%E6%AD%A5%E7%89%B9%E5%86%99%E3%80%82%E4%B8%BB+%281%29.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_%E4%B8%BB%E4%BD%93%E6%8A%AC%E5%A4%B4%E7%9C%8B%E5%90%91%E4%B9%8C%E4%BA%91%E5%AF%86%E5%B8%83%EF%BC%8C%E8%84%9A%E6%AD%A5%E7%89%B9%E5%86%99%E3%80%82%E4%B8%BB+%281%29.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_%E4%B8%BB%E4%BD%93%E6%8A%AC%E5%A4%B4%E7%9C%8B%E5%90%91%E4%B9%8C%E4%BA%91%E5%AF%86%E5%B8%83%EF%BC%8C%E8%84%9A%E6%AD%A5%E7%89%B9%E5%86%99%E3%80%82%E4%B8%BB+%281%29.webp",
       "audio_path": ""
     }
   }
