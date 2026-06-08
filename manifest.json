@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "updated_at": "2026-06-05",
   "featured_effects": [
      321958080134016,
@@ -1319,9 +1319,9 @@
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-tarot-251107.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-tarot-251107.MP3"
     },
-    "360586769510976": {
+    "359850491398912": {
       "display_name": "Muscle Pro",
-      "template_id": 360586769510976,
+      "template_id": 359850491398912,
       "workflow_tag": "muscle_250914",
       "display_prompt": "Your body, born powerful.",
       "effect_type": "1",
