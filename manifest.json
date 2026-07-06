@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "updated_at": "2026-06-05",
   "featured_effects": [
      321958080134016,
@@ -40,7 +40,6 @@
       "id": "new",
       "title": "New Arrivals",
       "effects": [
-        400897251899510,
         395286837630912,
         366799217822656, 
         381059488039360, 
@@ -50,7 +49,7 @@
     },
     {
       "id": "fifa",
-      "title": "Fifa Football Fever",
+      "title": "Football Fever",
       "effects": [
         405658369331648,
         404955806201792,
