@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "updated_at": "2026-06-05",
   "featured_effects": [
      321958080134016,
@@ -49,15 +49,6 @@
       "id": "live",
       "title": "Live in Style",
       "effects": [372921784232832, 380178461924416, 347130211954560]
-    },
-    
-    {
-      "id": "weirdo",
-      "title": "Weirdo's Party",
-      "effects": [
-        338083197718400,
-        350827863568000,
-      ]
     },
     {
       "id": "morphs",
