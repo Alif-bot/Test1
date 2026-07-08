@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 21,
   "updated_at": "2026-06-05",
   "featured_effects": [
      321958080134016,
@@ -51,7 +51,7 @@
     },
     {
       "id": "fifa",
-      "title": "Fifa Football Fever",
+      "title": "Football Fever",
       "effects": [
         405658369331648,
         404955806201792,
