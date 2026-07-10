@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "updated_at": "2026-06-05",
   "featured_effects": [
      321958080134016,
@@ -66,6 +66,7 @@
       "effects": [
         405658369331648,
         404955806201792,
+        406066820954560,
         404820147974080,
         405175211454656,
         402347545695296
@@ -388,7 +389,7 @@
       "display_prompt": "Choose your ride, and ride your vibe.",
       "effect_type": "2",
       "duration": 5,
-      "marker": "",
+      "marker": "new",
       "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-dreammount-251109-%E5%B0%81%E9%9D%A2.jpg",
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-dreammount-251109.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-dreammount-251109.webp",
@@ -414,7 +415,7 @@
       "display_prompt": "What's your dragon attribute? Find out now. ",
       "effect_type": "1",
       "duration": 8,
-      "marker": "",
+      "marker": "new",
       "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_dragon_250928.jpg",
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_dragon_250928.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_dragon_250928.webp",
@@ -700,7 +701,7 @@
       "display_prompt": "Kissing non-stop, feeling the endless desire",
       "effect_type": "1",
       "duration": 8,
-      "marker": "",
+      "marker": "hot",
       "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_wetkiss_250910.jpg",
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_wetkiss_250910.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_wetkiss_250910.webp",
@@ -713,7 +714,7 @@
       "display_prompt": "One click to send your kiss",
       "effect_type": "1",
       "duration": 5,
-      "marker": "",
+      "marker": "hot",
       "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kisskiss_250610.png",
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kisskiss_0610.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kisskiss_0610.webp",
@@ -1207,7 +1208,7 @@
       "display_prompt": "Show off your strong muscles and have everyone hooked.",
       "effect_type": "1",
       "duration": 5,
-      "marker": "",
+      "marker": "hot",
       "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_muscle_0610.png",
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_muscle_0610.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_muscle_0610.webp",
@@ -1376,7 +1377,7 @@
       "display_prompt": "We look alike because it’s mine",
       "effect_type": "1",
       "duration": 5,
-      "marker": "",
+      "marker": "new",
       "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-emoji-251107.jpg",
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-emoji-251107.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-emoji-251107.webp",
@@ -2875,6 +2876,19 @@
       "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F1594e483-037c-42fa-b99e-eae0b73ff03c.jpg",
       "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F6decb112-b5e0-4551-9710-80cd2ad28a0c.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F4cdbfd6f-03d9-4094-9be1-514591754b9b.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F51d497f7-1b53-4141-87d2-79938de1246c.mp3"
+    },
+    "406066820954560": {
+      "display_name": "Football Live King",
+      "template_id": 406066820954560,
+      "workflow_tag": "",
+      "display_prompt": "Supercar gifts flood the stream while you deliver a highlight-reel goal.",
+      "effect_type": "1",
+      "duration": 12,
+      "marker": "hot",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Effect_1080P_Li_Yumeng_Test+%283%29.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Effect_1080P_Li_Yumeng_Test+%283%29.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Effect_1080P_Li_Yumeng_Test+%283%29.webp",
       "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F51d497f7-1b53-4141-87d2-79938de1246c.mp3"
     }
   }
