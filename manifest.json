@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "updated_at": "2026-06-05",
   "featured_effects": [
      321958080134016,
@@ -47,6 +47,17 @@
         381059488039360, 
         380026708122688, 
         381858675348761
+      ]
+    },
+    {
+      "id": "urban",
+      "title": "Urban Vibes",
+      "effects": [
+        400782070266669,
+        399501124567134,
+        399581204382469,
+        399760509315182,
+        399706385376056
       ]
     },
     {
@@ -2800,6 +2811,71 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_%E4%B8%BB%E4%BD%93%E6%8A%AC%E5%A4%B4%E7%9C%8B%E5%90%91%E4%B9%8C%E4%BA%91%E5%AF%86%E5%B8%83%EF%BC%8C%E8%84%9A%E6%AD%A5%E7%89%B9%E5%86%99%E3%80%82%E4%B8%BB+%281%29.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_%E4%B8%BB%E4%BD%93%E6%8A%AC%E5%A4%B4%E7%9C%8B%E5%90%91%E4%B9%8C%E4%BA%91%E5%AF%86%E5%B8%83%EF%BC%8C%E8%84%9A%E6%AD%A5%E7%89%B9%E5%86%99%E3%80%82%E4%B8%BB+%281%29.webp",
       "audio_path": ""
+    },
+    "399501124567134": {
+      "display_name": "Paris Romantic Walk",
+      "template_id": 399501124567134,
+      "workflow_tag": "",
+      "display_prompt": "Step into a dreamy Paris scene and become the main character in a romantic cinematic moment.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F8b727b99-d670-4a73-8633-e7cc577fa5f2.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fc090a102-301f-4021-b097-468c170abaef.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2Ff302fa28-0e49-4bc0-932c-bae3fd982766.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F1452990c-4217-459e-a828-61f6e9261cb4.MP3"
+    },
+    "399581204382469": {
+      "display_name": "Riding an Ostrich",
+      "template_id": 399581204382469,
+      "workflow_tag": "",
+      "display_prompt": "Thinking about riding an ostrich in Africa? Just use this template.",
+      "effect_type": "1",
+      "duration": 8,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F8fc1aa92-7b9d-46a0-b9d4-ea3028995f93.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fc9d5610a-5597-4747-a9e9-a0fe3756b698.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2Fcd976b43-7617-43fe-b953-36755431114d.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Fb08f4017-4082-4753-b975-e9e73322aa84.MP3"
+    },
+    "399760509315182": {
+      "display_name": "Mexico City Mural",
+      "template_id": 399760509315182,
+      "workflow_tag": "",
+      "display_prompt": "A clothing transformation inspired by Mexico City, blending urban murals.",
+      "effect_type": "1",
+      "duration": 8,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F69fd4a08-ea9b-4e8f-b4de-fee0e6653553.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F2a89c0e3-3d15-4161-8618-669eb55e3d7c.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F2a89c0e3-3d15-4161-8618-669eb55e3d7c.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Fc4291cb7-b9e7-4b7c-9fe5-0a7d244a415f.mp3"
+    },
+    "399706385376056": {
+      "display_name": "Ancient Rome City",
+      "template_id": 399706385376056,
+      "workflow_tag": "",
+      "display_prompt": "A cinematic fashion transformation where a modern person becomes the living aesthetic of Ancient.",
+      "effect_type": "1",
+      "duration": 8,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F46aeeaa5-3a49-47d0-a646-fe1823530f8c.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F8d37a3b1-946d-432d-b6e1-7dbe32b311e1.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F8d37a3b1-946d-432d-b6e1-7dbe32b311e1.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F50c22b39-063c-4712-bcea-26c630c21d78.mp3"
+    },
+    "400782070266669": {
+      "display_name": "Billboard City",
+      "template_id": 400782070266669,
+      "workflow_tag": "",
+      "display_prompt": "Transform the street into a glowing media city.",
+      "effect_type": "1",
+      "duration": 6,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F1594e483-037c-42fa-b99e-eae0b73ff03c.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F6decb112-b5e0-4551-9710-80cd2ad28a0c.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F4cdbfd6f-03d9-4094-9be1-514591754b9b.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F51d497f7-1b53-4141-87d2-79938de1246c.mp3"
     }
   }
 }
