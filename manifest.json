@@ -1,10 +1,10 @@
 {
-  "version": 26,
+  "version": 27,
   "updated_at": "2026-06-05",
   "featured_effects": [
     359166562889024,
     402331965264704,
-    406066820954560
+    369205027418304
   ],
   "categories": [
     {
@@ -294,7 +294,10 @@
       "id": "product",
       "title": "Product Marketing",
       "effects": [
-        368492376619456, 
+        368493579993536,
+        368493233725888,
+        368492376619456,
+        364641000073984,
         366950091449152, 
         361429166535744, 
         369281788356224, 
@@ -2890,6 +2893,45 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Effect_1080P_Li_Yumeng_Test+%283%29.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Effect_1080P_Li_Yumeng_Test+%283%29.webp",
       "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F51d497f7-1b53-4141-87d2-79938de1246c.mp3"
+    },
+    "368493579993536": {
+      "display_name": "Billboard AD",
+      "template_id": 368493579993536,
+      "workflow_tag": "billboardad_20251030",
+      "display_prompt": "Display your product on a highway billboard.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E5%85%AC%E8%B7%AF%E5%B9%BF%E5%91%8A%E7%89%8C.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E5%85%AC%E8%B7%AF%E5%B9%BF%E5%91%8A%E7%89%8C.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E5%85%AC%E8%B7%AF%E5%B9%BF%E5%91%8A%E7%89%8C.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E5%85%AC%E8%B7%AF%E5%B9%BF%E5%91%8A%E7%89%8C1.mp3"
+    },
+    "368493233725888": {
+      "display_name": "Giant Product",
+      "template_id": 368493233725888,
+      "workflow_tag": "giantproduct_20251030",
+      "display_prompt": "Display your product in a miniature urban landscape for a giant, impactful effect.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E5%B7%A8%E5%A4%A7%E8%A1%97%E5%A4%B4%E4%BA%A7%E5%93%81.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E5%B7%A8%E5%A4%A7%E8%A1%97%E5%A4%B4%E4%BA%A7%E5%93%81.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E5%B7%A8%E5%A4%A7%E8%A1%97%E5%A4%B4%E4%BA%A7%E5%93%81.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E5%B7%A8%E5%A4%A7%E8%A1%97%E5%A4%B4%E4%BA%A7%E5%93%811.mp3"
+    },
+    "364641000073984": {
+      "display_name": "Truck Fashion Shoot",
+      "template_id": 364641000073984,
+      "workflow_tag": "truckfashion_251011",
+      "display_prompt": "Transform your ad into a high-end truck fashion shoot.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E8%B4%A7%E8%BD%A6%E6%97%B6%E5%B0%9A%E5%B9%BF%E5%91%8A1.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E8%B4%A7%E8%BD%A6%E6%97%B6%E5%B0%9A%E5%B9%BF%E5%91%8A1.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E8%B4%A7%E8%BD%A6%E6%97%B6%E5%B0%9A%E5%B9%BF%E5%91%8A1.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E8%B4%A7%E8%BD%A6%E6%97%B6%E5%B0%9A%E5%B9%BF%E5%91%8A2.mp3"
     }
   }
 }
