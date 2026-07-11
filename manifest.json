@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "updated_at": "2026-06-05",
   "featured_effects": [
      321958080134016,
@@ -11,15 +11,111 @@
       "id": "trending",
       "title": "Trending",
       "effects": [
+        359166562889024,
+        402331965264704,
+        402888569901524,
         402687993764864,
+        402046136040202,
         402885275072704,
+        402880241531072,
+        313555098280384, 
+        303788802773760, 
+        325501134629952, 
+        336699420635904, 
         381856734706963,
+        362350589198976,
         372980970645589,
         376165206843264,
         340361643937600,
+        382202790969571,
         368889104245735,
+        343241420215360,
+        381089861204928,
         379687567643648,
+        370480462623552,
+        373505941139534,
         382917937780023
+      ]
+    },
+    {
+      "id": "new",
+      "title": "New Arrivals",
+      "effects": [
+        400897251899510,
+        395286837630912,
+        366799217822656, 
+        381059488039360, 
+        380026708122688, 
+        381858675348761
+      ]
+    },
+    {
+      "id": "urban",
+      "title": "Urban Vibes",
+      "effects": [
+        400782070266669,
+        399501124567134,
+        399581204382469,
+        399760509315182,
+        399706385376056
+      ]
+    },
+    {
+      "id": "fifa",
+      "title": "Football Fever",
+      "effects": [
+        405658369331648,
+        404955806201792,
+        406066820954560,
+        404820147974080,
+        405175211454656,
+        402347545695296
+      ]
+    },
+     {
+      "id": "romance",
+      "title": "AI Romance",
+      "effects": [
+        359166562889024, 
+        315446315336768, 
+        340712049100608, 
+        352802159378368, 
+        353279785150016,
+        303624424723200,
+        321958627120000,
+        326733946317888
+      ]
+    },
+    {
+      "id": "dance",
+      "title": "AI Dance",
+      "effects": [
+        369204968292544,
+        337572593925696, 
+        343058524240960, 
+        343058274917440,
+        381090080287680,
+        372740965667137,
+        367302749516608,
+        369205206102208,
+        369205270681792,
+        367828176752256,
+        369205027418304,
+        369205129275584,
+        352956065691584,
+        351899261628032,
+        343058574996544,
+        343058408062016,
+        343058469676096,
+        337792714792704,
+        343058619202624,
+        343058215445568,
+        343058324329536,
+        343058758753344,
+        333178074897472,
+        331864971269184,
+        334053280928832,
+        324641581197696
       ]
     },
     {
@@ -28,10 +124,47 @@
       "effects": [
         346384996936128,
         364673505073920,
+        342535507046144,
         342874383633472,
+        341651541059392,
         339673485621824,
         315446232403008,
         313649622731200
+      ]
+    },
+    {
+      "id": "alpha",
+      "title": "Alpha Boss",
+      "effects": [
+        308621408717184,
+        349232644550272,
+        349232463042176,
+        370472489673650,
+        370476424049609,
+        368689273684736,
+        367301708446528,
+        368723165573888,
+        367472828659200,
+        360586769510976,
+        359850491398912,
+        349110259052160,
+        354371350649280,
+        351907687030400,
+        347130807494528,
+        348369452948224,
+        347847915659136,
+        344131642438080,
+        342538347747072,
+        342180291926592,
+        340383170699072,
+        339133943656192,
+        335610959448832,
+        333181805861952,
+        316645675647872,
+        315447659476032,
+        322852853601344,
+        327829606196096,
+        326607027713088
       ]
     }, 
     {
@@ -48,7 +181,39 @@
     {
       "id": "live",
       "title": "Live in Style",
-      "effects": [372921784232832, 380178461924416, 347130211954560]
+      "effects": [372921784232832, 380178461924416, 359328847686976, 347130211954560]
+    },
+    
+    {
+      "id": "weirdo",
+      "title": "Weirdo's Party",
+      "effects": [
+        338083197718400,
+        350827863568000,
+        367503422735872,
+        366945220815680,
+        357904025203072,
+        357905373827456,
+        357903949828480,
+        357903645598080,
+        351687353790080,
+        350827688007296,
+        338445884778240,
+        350496364287680,
+        342847495240768,
+        344080941597120,
+        339176058171136,
+        335586897736448,
+        336856634055424,
+        302325299711040,
+        332074055488256,
+        302325299721280,
+        302325299692608,
+        308552687706496,
+        321956810449792,
+        302325299702848,
+        302325299661888
+      ]
     },
     {
       "id": "morphs",
@@ -59,6 +224,7 @@
         375277260704704,
         374166107631104,
         340541567573824,
+        344263482059200,
         339848996187712,
         334237192507776,
         313358700761536,
@@ -68,7 +234,56 @@
         382943126531866
       ]
       
-    },       
+    },
+    
+    {
+      "id": "creator",
+      "title": "Creator Picks",
+      "effects": [
+        373148934592000,
+        370642113064576,
+        361993440092761,
+        365301137193286,
+        361988459862630,
+        362014562540125,
+        361469992918080,
+        366978801410430
+      ]
+    },
+    
+    {
+      "id": "festival",
+      "title": "Festival Vibe",
+      "effects": [
+        362704938833536,
+        343410955453504,
+        313359048325568,
+        321958080134016,
+        302325299672128,
+        302325299651648,
+        302325299682368,
+        317013509917440,
+        365522752365312,
+        366544675201928,
+        367095420561734,
+        366543030823885,
+        365519364076288,
+        367079896187785,
+        359516293494080,
+        365170951985920,
+        356317200152960,
+        311521768592256,
+        367530056173698,
+        366546194798967,
+        367007156382682,
+        365519260162816,
+        366540804957162,
+        367400055937163,
+        360405191066176,
+        311521879229312
+      ]
+    },
+    
     {
       "id": "cutie",
       "title": "Cutie Verse",
@@ -174,7 +389,7 @@
       "display_prompt": "Choose your ride, and ride your vibe.",
       "effect_type": "2",
       "duration": 5,
-      "marker": "",
+      "marker": "new",
       "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-dreammount-251109-%E5%B0%81%E9%9D%A2.jpg",
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-dreammount-251109.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-dreammount-251109.webp",
@@ -200,7 +415,7 @@
       "display_prompt": "What's your dragon attribute? Find out now. ",
       "effect_type": "1",
       "duration": 8,
-      "marker": "",
+      "marker": "new",
       "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_dragon_250928.jpg",
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_dragon_250928.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_dragon_250928.webp",
@@ -486,7 +701,7 @@
       "display_prompt": "Kissing non-stop, feeling the endless desire",
       "effect_type": "1",
       "duration": 8,
-      "marker": "",
+      "marker": "hot",
       "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_wetkiss_250910.jpg",
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_wetkiss_250910.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_wetkiss_250910.webp",
@@ -499,7 +714,7 @@
       "display_prompt": "One click to send your kiss",
       "effect_type": "1",
       "duration": 5,
-      "marker": "",
+      "marker": "hot",
       "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kisskiss_250610.png",
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kisskiss_0610.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kisskiss_0610.webp",
@@ -993,7 +1208,7 @@
       "display_prompt": "Show off your strong muscles and have everyone hooked.",
       "effect_type": "1",
       "duration": 5,
-      "marker": "",
+      "marker": "hot",
       "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_muscle_0610.png",
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_muscle_0610.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_muscle_0610.webp",
@@ -1162,7 +1377,7 @@
       "display_prompt": "We look alike because it’s mine",
       "effect_type": "1",
       "duration": 5,
-      "marker": "",
+      "marker": "new",
       "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-emoji-251107.jpg",
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-emoji-251107.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-emoji-251107.webp",
@@ -2597,6 +2812,84 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_%E4%B8%BB%E4%BD%93%E6%8A%AC%E5%A4%B4%E7%9C%8B%E5%90%91%E4%B9%8C%E4%BA%91%E5%AF%86%E5%B8%83%EF%BC%8C%E8%84%9A%E6%AD%A5%E7%89%B9%E5%86%99%E3%80%82%E4%B8%BB+%281%29.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_%E4%B8%BB%E4%BD%93%E6%8A%AC%E5%A4%B4%E7%9C%8B%E5%90%91%E4%B9%8C%E4%BA%91%E5%AF%86%E5%B8%83%EF%BC%8C%E8%84%9A%E6%AD%A5%E7%89%B9%E5%86%99%E3%80%82%E4%B8%BB+%281%29.webp",
       "audio_path": ""
+    },
+    "399501124567134": {
+      "display_name": "Paris Romantic Walk",
+      "template_id": 399501124567134,
+      "workflow_tag": "",
+      "display_prompt": "Step into a dreamy Paris scene and become the main character in a romantic cinematic moment.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F8b727b99-d670-4a73-8633-e7cc577fa5f2.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fc090a102-301f-4021-b097-468c170abaef.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2Ff302fa28-0e49-4bc0-932c-bae3fd982766.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F1452990c-4217-459e-a828-61f6e9261cb4.MP3"
+    },
+    "399581204382469": {
+      "display_name": "Riding an Ostrich",
+      "template_id": 399581204382469,
+      "workflow_tag": "",
+      "display_prompt": "Thinking about riding an ostrich in Africa? Just use this template.",
+      "effect_type": "1",
+      "duration": 8,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F8fc1aa92-7b9d-46a0-b9d4-ea3028995f93.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fc9d5610a-5597-4747-a9e9-a0fe3756b698.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2Fcd976b43-7617-43fe-b953-36755431114d.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Fb08f4017-4082-4753-b975-e9e73322aa84.MP3"
+    },
+    "399760509315182": {
+      "display_name": "Mexico City Mural",
+      "template_id": 399760509315182,
+      "workflow_tag": "",
+      "display_prompt": "A clothing transformation inspired by Mexico City, blending urban murals.",
+      "effect_type": "1",
+      "duration": 8,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F69fd4a08-ea9b-4e8f-b4de-fee0e6653553.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F2a89c0e3-3d15-4161-8618-669eb55e3d7c.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F2a89c0e3-3d15-4161-8618-669eb55e3d7c.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Fc4291cb7-b9e7-4b7c-9fe5-0a7d244a415f.mp3"
+    },
+    "399706385376056": {
+      "display_name": "Ancient Rome City",
+      "template_id": 399706385376056,
+      "workflow_tag": "",
+      "display_prompt": "A cinematic fashion transformation where a modern person becomes the living aesthetic of Ancient.",
+      "effect_type": "1",
+      "duration": 8,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F46aeeaa5-3a49-47d0-a646-fe1823530f8c.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F8d37a3b1-946d-432d-b6e1-7dbe32b311e1.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F8d37a3b1-946d-432d-b6e1-7dbe32b311e1.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F50c22b39-063c-4712-bcea-26c630c21d78.mp3"
+    },
+    "400782070266669": {
+      "display_name": "Billboard City",
+      "template_id": 400782070266669,
+      "workflow_tag": "",
+      "display_prompt": "Transform the street into a glowing media city.",
+      "effect_type": "1",
+      "duration": 6,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F1594e483-037c-42fa-b99e-eae0b73ff03c.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F6decb112-b5e0-4551-9710-80cd2ad28a0c.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F4cdbfd6f-03d9-4094-9be1-514591754b9b.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F51d497f7-1b53-4141-87d2-79938de1246c.mp3"
+    },
+    "406066820954560": {
+      "display_name": "Football Live King",
+      "template_id": 406066820954560,
+      "workflow_tag": "",
+      "display_prompt": "Supercar gifts flood the stream while you deliver a highlight-reel goal.",
+      "effect_type": "1",
+      "duration": 12,
+      "marker": "hot",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Effect_1080P_Li_Yumeng_Test+%283%29.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Effect_1080P_Li_Yumeng_Test+%283%29.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Effect_1080P_Li_Yumeng_Test+%283%29.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F51d497f7-1b53-4141-87d2-79938de1246c.mp3"
     }
   }
 }
