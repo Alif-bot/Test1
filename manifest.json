@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "updated_at": "2026-06-05",
   "featured_effects": [
     359166562889024,
@@ -13,6 +13,7 @@
       "effects": [
         415217746747328,
         415206619977664,
+        416160320712192,
         359166562889024,
         402331965264704,
         402888569901524,
@@ -60,6 +61,16 @@
         399581204382469,
         399760509315182,
         399706385376056
+      ]
+    },
+    {
+      "id": "summer",
+      "title": "Summer Vibes",
+      "effects": [
+        414047774038485, 
+        413942716246168, 
+        414224588892609, 
+        414007747039686
       ]
     },
     {
@@ -2974,6 +2985,71 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_subject3_251109.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_subject3_251109.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_subject3_251109.mp3"
+    },
+    "416160320712192": {
+      "display_name": "Skyline Rescue Mission",
+      "template_id": 416160320712192,
+      "workflow_tag": "meta_gpt_it2v_v6_enhanced_260429",
+      "display_prompt": "When danger strikes, your hero arrives to take you above the city.",
+      "effect_type": "1",
+      "duration": 8,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E8%A7%86%E9%A2%91_1_%283%29.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E8%A7%86%E9%A2%91_1_%283%29.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E8%A7%86%E9%A2%91_1_%283%29.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E8%A7%86%E9%A2%91_1_%283%29.mp3"
+    },
+    "413942716246168": {
+      "display_name": "Instant Water Slide!",
+      "template_id": 413942716246168,
+      "workflow_tag": "",
+      "display_prompt": "Take the secret tunnel to summer fun!",
+      "effect_type": "1",
+      "duration": 6,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F3f31604f-0c6a-471a-bb59-265a4ab4a1be.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F1a65cc73-ae1b-4329-8a9a-d0b7e2d9cec1.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2Fc3125b50-9cd7-4f15-a53a-a343b2f4818f.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F17dfb7d4-9f4c-43ad-a5f5-11891d6ef34b.mp3"
+    },
+    "414047774038485": {
+      "display_name": "DOLPHIN DIVE",
+      "template_id": 414047774038485,
+      "workflow_tag": "",
+      "display_prompt": "Dive into the ocean and swim underwater beside a friendly dolphin.",
+      "effect_type": "1",
+      "duration": 10,
+      "marker": "hot",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F4eba14f9-d1f6-4d92-aabe-a08a51a2cd2a.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F9caa3222-c9ef-4e5b-9a2b-1301325adf1f.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2Fd941a03a-938e-4f81-b00d-ae3d930175a5.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F5274243f-6595-424f-9e14-bc35c13f7eaf.MP3"
+    },
+    "414007747039686": {
+      "display_name": "Lake Jump",
+      "template_id": 414007747039686,
+      "workflow_tag": "",
+      "display_prompt": "The perfect summertime break!",
+      "effect_type": "1",
+      "duration": 7,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2Fa363ee17-f9fb-4820-a860-fa1ad9cb492c.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fde6005df-cd88-48fb-8650-fc2451633031.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F5506aa60-7ce6-4569-b97b-8665479f37b5.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Fdd6bbc4b-1912-4618-aa50-a8a8271a7023.mp3"
+    },
+    "414224588892609": {
+      "display_name": "GORILLA RIDE",
+      "template_id": 414224588892609,
+      "workflow_tag": "",
+      "display_prompt": "Race through the jungle on a giant silverback gorilla in a hilariously fast-paced adventure scene.",
+      "effect_type": "1",
+      "duration": 10,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F1b89f535-16d0-44c5-b3bd-dc063ada2a99.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F95b3d045-86b8-49f2-a3a3-3eb209b77646.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F86be1616-5b72-4263-9dc6-385387587009.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F17390f08-1096-4ebf-820b-2d45823dfbca.MP3"
     }
   }
 }
