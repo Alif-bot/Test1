@@ -44,6 +44,7 @@
       "id": "new",
       "title": "New Arrivals",
       "effects": [
+        417033902416768,
         400897251899510,
         395286837630912,
         366799217822656, 
@@ -3050,6 +3051,48 @@
       "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F95b3d045-86b8-49f2-a3a3-3eb209b77646.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F86be1616-5b72-4263-9dc6-385387587009.webp",
       "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F17390f08-1096-4ebf-820b-2d45823dfbca.MP3"
+    },
+    {
+      "template_id": 417033902416768,
+      "display_name": "Street Art Awakening",
+      "workflow_tag": "meta_gpt_it2v_v6_enhanced_260429",
+      "display_prompt": "Transform your photo into an American street art masterpiece and bring your illustrated character to life.",
+      "effect_type": "1",
+      "template_type": 1,
+      "template_model": "v6",
+      "template_paid": 0,
+      "supported_features": null,
+      "duration": 6,
+      "qualities": [
+        "360p",
+        "540p",
+        "720p",
+        "1080p"
+      ],
+      "score": 25,
+      "hot_count": 0,
+      "created_at": "2026-08-03T10:16:29Z",
+      "updated_at": "2026-08-03T11:25:23Z",
+      "author_info": {
+        "account_id": 380177460178340,
+        "username": "",
+        "nickname": "Celine",
+        "avatar": "https://media.pixverse.ai/upload%2F4798f6c0-5a78-452e-8ae1-cf59f6fe3bc9.png"
+      },
+      "category_ids": [
+        260
+      ],
+      "video_base_cost": 20,
+      "fixed_cost": 30,
+      "example_text": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2F8.3%E8%A1%97%E5%A4%B4000.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F8.3%E8%A1%97%E5%A4%B4000.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F8.3%E8%A1%97%E5%A4%B4000.webp",
+      "app_thumbnail_url": "https://media.pixverse.ai/asset%2Ftemplate%2F8.3%E8%A1%97%E5%A4%B4000.jpg",
+      "app_thumbnail_video_url": "https://media.pixverse.ai/asset%2Ftemplate%2F8.3%E8%A1%97%E5%A4%B4000.mp4",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F8.3%E8%A1%97%E5%A4%B4000.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F8.3%E8%A1%97%E5%A4%B4000.mp3",
+      "marker": "new"
     }
   }
 }
