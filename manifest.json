@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "updated_at": "2026-06-05",
   "featured_effects": [
     359166562889024,
@@ -12,7 +12,9 @@
       "title": "Trending",
       "effects": [
         415217746747328,
+        414431780412397,
         415206619977664,
+        417025009850560,
         416160320712192,
         359166562889024,
         402331965264704,
@@ -44,6 +46,9 @@
       "id": "new",
       "title": "New Arrivals",
       "effects": [
+        416504334886464,
+        417033902416768,
+        414229629426140,
         400897251899510,
         395286837630912,
         366799217822656, 
@@ -67,22 +72,12 @@
       "id": "summer",
       "title": "Summer Vibes",
       "effects": [
+        414389256137706,
         414047774038485, 
-        413942716246168, 
+        413942716246168,
+        414577597673955,
         414224588892609, 
         414007747039686
-      ]
-    },
-    {
-      "id": "fifa",
-      "title": "Football Fever",
-      "effects": [
-        405658369331648,
-        404955806201792,
-        406066820954560,
-        404820147974080,
-        405175211454656,
-        402347545695296
       ]
     },
      {
@@ -3050,6 +3045,97 @@
       "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F95b3d045-86b8-49f2-a3a3-3eb209b77646.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F86be1616-5b72-4263-9dc6-385387587009.webp",
       "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F17390f08-1096-4ebf-820b-2d45823dfbca.MP3"
+    },
+    "417033902416768": {
+      "display_name": "Street Art Awakening",
+      "template_id": 417033902416768,
+      "workflow_tag": "meta_gpt_it2v_v6_enhanced_260429",
+      "display_prompt": "Transform your photo into an American street art masterpiece and bring your illustrated character to life.",
+      "effect_type": "1",
+      "duration": 6,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2F8.3%E8%A1%97%E5%A4%B4000.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F8.3%E8%A1%97%E5%A4%B4000.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F8.3%E8%A1%97%E5%A4%B4000.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F8.3%E8%A1%97%E5%A4%B4000.mp3"
+    },
+     "417025009850560": {
+      "display_name": "What a Day",
+      "template_id": 417025009850560,
+      "workflow_tag": "meta_v66reference_20260726",
+      "display_prompt": "Step in as your character and recreate the iconic street group dance—where every move hits the beat of pure joy!",
+      "effect_type": "1",
+      "duration": 15,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwhataday.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwhataday.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwhataday.webp",
+      "audio_path": ""
+    },
+     "414389256137706": {
+      "display_name": "Summer Aura King",
+      "template_id": 414389256137706,
+      "workflow_tag": "",
+      "display_prompt": "From the sand to the crowd — a legend is born.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "hot",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F2715ade1-5f06-466d-8822-3b662f1cdcc9.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F8d398207-ba85-4d6d-86d0-0e2d7e94e019.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F08a789a7-3b8e-4844-9e3b-39b8d6c11cb4.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Ff10dd526-c6f6-4aa3-9b6f-7bb4504039f6.mp3"
+    },
+    "414431780412397": {
+      "display_name": "Jaws Shock",
+      "template_id": 414431780412397,
+      "workflow_tag": "",
+      "display_prompt": "A cinematic photorealistic sea bath turns into a sudden shark reveal behind him.",
+      "effect_type": "1",
+      "duration": 6,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2Fab05d8da-1d72-4a84-af5f-fa43d16c431f.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F67398cb6-6362-4a95-8139-2ed9a6b91cd1.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F67398cb6-6362-4a95-8139-2ed9a6b91cd1.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F38b3e689-3516-4308-b8f8-70cf812fbbfc.mp3"
+    },
+    "414229629426140": {
+      "display_name": "BANANA BOAT PARTY",
+      "template_id": 414229629426140,
+      "workflow_tag": "",
+      "display_prompt": "Race across the tropical ocean on a crowded banana boat pulled by a powerful speedboat.",
+      "effect_type": "1",
+      "duration": 10,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2F0859c7a9-963e-49df-a746-778bde65507a.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fc2521e0b-f83c-4243-8ac3-5a1c6e919663.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F823cd9df-9bb4-4dcc-8588-712531c57657.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Fabb712ed-602e-461a-a752-66b47820c773.MP3"
+    },
+    "414577597673955": {
+      "display_name": "The Bucket Prank",
+      "template_id": 414577597673955,
+      "workflow_tag": "",
+      "display_prompt": "Caught completely off guard! A sneaky kid dumps a giant water wave right on you.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/studio%2Fimg%2Fe75ca26c-a80a-4e02-a531-7acad0f830b2.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2Fdb810b2c-73d8-45e5-bdc1-437d16b4f81e.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2Fdb810b2c-73d8-45e5-bdc1-437d16b4f81e.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F7a6caec6-f200-4850-9e0c-a0d5571338ed.MP3"
+    },
+    "416504334886464": {
+      "display_name": "The Last Leap at Sunset",
+      "template_id": 416504334886464,
+      "workflow_tag": "",
+      "display_prompt": "One leap. One city. Your hero story begins.",
+      "effect_type": "1",
+      "duration": 15,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fpixverse_i2i_ori_8680d0c7-4286-41fa-90ad-1ceca6678c4a.png",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%912026-07-31_182502_763.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%912026-07-31_182502_763.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%912026-07-31_182502_763.mp3"
     },
   }
 }
