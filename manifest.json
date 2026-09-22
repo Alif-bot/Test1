@@ -1,5 +1,5 @@
 {
-  "version": 43,
+  "version": 44,
   "updated_at": "2026-06-05",
   "featured_effects": [
     414224588892609,
@@ -19,8 +19,7 @@
         402331965264704,
         402687993764864,
         402885275072704,
-        402880241531072,
-        325501134629952, 
+        402880241531072, 
         336699420635904, 
         381856734706963,
         362350589198976,
@@ -327,19 +326,6 @@
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb-shake-251109.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp-shake-251109.MP3"
     },
-    "325501134629952": {
-      "display_name": "Polar Bear Shock",
-      "template_id": 325501134629952,
-      "workflow_tag": "polarbear_250304",
-      "display_prompt": "A polar bear suddenly jumps out and hugs you",
-      "effect_type": "1",
-      "duration": 5,
-      "marker": "",
-      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_polarbear_250304.png",
-      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_polarbear_250304.mp4",
-      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_polarbear_250304.webp",
-      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F325501134629952.MP3"
-    },
     "336699420635904": {
       "display_name": "Dream Mount",
       "template_id": 336699420635904,
@@ -638,19 +624,6 @@
       "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F88da3c8a-fdae-4cc3-80dd-b986725e034d.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F88da3c8a-fdae-4cc3-80dd-b986725e034d.webp",
       "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F693a5880-257d-43e6-a730-351ec2dd13cc.mp3"
-    },
-    "352802159378368": {
-      "display_name": "Mwah Mwah",
-      "template_id": 352802159378368,
-      "workflow_tag": "kiss_2_250805",
-      "display_prompt": "A soft kiss strong enough to shatter",
-      "effect_type": "2",
-      "duration": 5,
-      "marker": "hot",
-      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kiss2_250805.jpg",
-      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kiss2_250805.mp4",
-      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kiss2_250805.webp",
-      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_kiss2_250805.mp3"
     },
     "369204968292544": {
       "display_name": "Sugar on My Tongue",
