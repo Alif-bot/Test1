@@ -1,5 +1,5 @@
 {
-  "version": 44,
+  "version": 45,
   "updated_at": "2026-06-05",
   "featured_effects": [
     414224588892609,
@@ -256,7 +256,6 @@
         367530056173698,
         366546194798967,
         367007156382682,
-        365519260162816,
         366540804957162,
         367400055937163,
         360405191066176,
@@ -2379,19 +2378,6 @@
       "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2F11d66f6a-1f6e-41a4-a786-9a720e5faf52.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F11d66f6a-1f6e-41a4-a786-9a720e5faf52.webp",
       "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F3a93bae8-fc47-4bd5-957f-ef1d72f8a4ec.mp3"
-    },
-    "365519260162816": {
-      "display_name": "Skeletal Bae",
-      "template_id": 365519260162816,
-      "workflow_tag": "deadlover_251016",
-      "display_prompt": "The trendiest couple is back from the dead.",
-      "effect_type": "1",
-      "duration": 5,
-      "marker": "",
-      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_deadlover_251017.jpg",
-      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_deadlover_251017.mp4",
-      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_deadlover_251017.webp",
-      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_deadlover_251017.mp3"
     },
     "366540804957162": {
       "display_name": "Halloween Angels",
