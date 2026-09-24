@@ -1,5 +1,5 @@
 {
-  "version": 45,
+  "version": 46,
   "updated_at": "2026-06-05",
   "featured_effects": [
     414224588892609,
@@ -2755,6 +2755,6 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%912026-07-31_182502_763.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%912026-07-31_182502_763.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%912026-07-31_182502_763.mp3"
-    },
+    }
   }
 }
