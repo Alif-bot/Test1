@@ -1,5 +1,5 @@
 {
-  "version": 46,
+  "version": 47,
   "updated_at": "2026-06-05",
   "featured_effects": [
     414224588892609,
@@ -31,7 +31,6 @@
         343241420215360,
         381089861204928,
         379687567643648,
-        370480462623552,
         373505941139534,
         382917937780023
       ]
@@ -519,19 +518,6 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_beitou_260109.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_beitou_260109.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_beitou_260109.mp3"
-    },
-    "370480462623552": {
-      "display_name": "My Super Giant Cat",
-      "template_id": 370480462623552,
-      "workflow_tag": "mysupergiantcat_251113",
-      "display_prompt": "Bigger than dreams, closer than comfort.",
-      "effect_type": "1",
-      "duration": 5,
-      "marker": "",
-      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_mysupergiantcat_251113.jpg",
-      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_mysupergiantcat_251113.mp4",
-      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_mysupergiantcat_251113.webp",
-      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_1mysupergiantcat_251113.mp3"
     },
      "373505941139534": {
       "display_name": "Winter Spirit",
