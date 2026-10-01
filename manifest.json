@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 50,
   "updated_at": "2026-06-05",
   "featured_effects": [
     420169859593664,
@@ -743,7 +743,7 @@
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwishflight-0302.mp3"
     },
     "420169859593664": {
-      "display_name": "Hercules Strength",
+      "display_name": "Power Surge",
       "template_id": 420169859593664,
       "workflow_tag": "",
       "display_prompt": "show incredible strength",
