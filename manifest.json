@@ -1,10 +1,11 @@
 {
-  "version": 1,
+  "version": 2,
   "updated_at": "2026-06-05",
   "featured_effects": [
-     321958080134016,
-    334005897813056,
-    342874383633472
+    420169859593664,
+    389932910741056,
+    321958080134016,
+    334005897813056
   ],
   "categories": [
     {
@@ -34,7 +35,18 @@
         315446232403008,
         313649622731200
       ]
-    }, 
+    },
+    {
+      "id": "dance",
+      "title": "Dance Party",
+      "effects": [
+        426926114156736,
+        421224037978624,
+        421224298813952,
+        416278340746048,
+        421227859032576
+      ]
+    },
     {
       "id": "dual",
       "title": "Dual Image",
@@ -651,6 +663,97 @@
       "thumbnail_video_path": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F66dd3d05-070e-4864-865c-fd368730f00d.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F66dd3d05-070e-4864-865c-fd368730f00d.webp",
       "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Fc9e01b31-7049-45d2-a46d-80a94a46d2a0.mp3"
+    },
+    "426926114156736": {
+      "display_name": "MJ Dance",
+      "template_id": 426926114156736,
+      "workflow_tag": "",
+      "display_prompt": "Upload photos to generate MJ dance style videos！",
+      "effect_type": "1",
+      "duration": 10,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fautoteml_y2fc6x_jp_MJ_Dance_Reproduction.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fautoteml_y2fc6x_jp_MJ_Dance_Reproduction.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fautoteml_y2fc6x_jp_MJ_Dance_Reproduction.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2FMJ_Dance_Reproduction.mp3"
+    },
+    "421224037978624": {
+      "display_name": "Redance Dance Imitation",
+      "template_id": 421224037978624,
+      "workflow_tag": "",
+      "display_prompt": "Upload photos to generate same dance style videos！",
+      "effect_type": "1",
+      "duration": 10,
+      "marker": "new",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2F333.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F333.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F333.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F333.mp3"
+    },
+    "421224298813952": {
+      "display_name": "Hot Dance Moment",
+      "template_id": 421224298813952,
+      "workflow_tag": "",
+      "display_prompt": "Upload your ownbeautiful photos and getthe same dance videowith ijust one click",
+      "effect_type": "1",
+      "duration": 15,
+      "marker": "hot",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2F331.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F331.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F331.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F333.mp3"
+    },
+    "416278340746048": {
+      "display_name": "OBH combi saset",
+      "template_id": 416278340746048,
+      "workflow_tag": "",
+      "display_prompt": "Instantly generate your exclusive gesture dance",
+      "effect_type": "1",
+      "duration": 10,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2FOBH0731.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2FOBH0731.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2FOBH0731.webp",
+      "audio_path": ""
+    },
+    "421227859032576": {
+      "display_name": "ABS Vinegar Shake",
+      "template_id": 421227859032576,
+      "workflow_tag": "",
+      "display_prompt": "Upload your ownbeautiful photos and getthe same dance video withjust one click",
+      "effect_type": "1",
+      "duration": 15,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2F341.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F341.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F341.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F341.mp3"
+    },
+    "389932910741056": {
+      "display_name": "Wish Flight",
+      "template_id": 389932910741056,
+      "workflow_tag": "",
+      "display_prompt": "Summon a golden birthday flyover with a single touch.",
+      "effect_type": "1",
+      "duration": 5,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwishflight-0302-cover.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwishflight-0302.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwishflight-0302.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fwishflight-0302.mp3"
+    },
+    "420169859593664": {
+      "display_name": "Hercules Strength",
+      "template_id": 420169859593664,
+      "workflow_tag": "",
+      "display_prompt": "show incredible strength",
+      "effect_type": "1",
+      "duration": 7,
+      "marker": "",
+      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2F1108.jpg",
+      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F1108.mp4",
+      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F1108.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F1108.mp3"
     }
   }
 }
